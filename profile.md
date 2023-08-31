@@ -7,7 +7,7 @@ type: profile
 
 I am currently a research scientist at Centre for Frontier AI Research (CFAR), Agency for Science, Technology and Research (A\*STAR) Singapore.
 
-# Working Experience		
+## Working Experience		
 **Centre for Frontier AI Research (CFAR), A*STAR Singapore**\
 Research Scientist, Jan 2022 – Present
 
@@ -19,7 +19,7 @@ Supervisor: Research Director of Australia AI Institute & Prof. Ivor W. Tsang
 Research Assistant, Oct 2019 – Mar 2020\
 Supervisor: Research Director of Australia AI Institute & Prof. Ivor W. Tsang
 
-# Education		
+## Education		
 **University of Technology Sydney (UTS), Australia**\
 Ph.D., Statistical Machine Learning, Mar-2016 – Oct 2019\
 Supervisor: Prof. Ivor W. Tsang, Research Director of Australia AI Institute
