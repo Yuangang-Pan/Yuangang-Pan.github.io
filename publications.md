@@ -54,7 +54,7 @@ Jing Li, **Yuangang Pan**, Yulei Sui, and Ivor W. Tsang.\
 Bo Han, Quanming Yao, **Yuangang Pan**, Ivor W. Tsang, Xiaokui Xiao, Qiang Yang, and Masashi Sugiyama.\
 Machine Learning: 108, pages831–858 (2019). (IF:5.414, Q2)
 
-1. ** Label embedding with partial heterogeneous contexts**\
+1. **Label embedding with partial heterogeneous contexts**\
 Yaxin Shi, Donna Xu, **Yuangang Pan**, and Ivor W. Tsang.\
 Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), 4926-4933. (2019). 
 
