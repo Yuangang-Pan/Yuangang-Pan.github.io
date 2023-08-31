@@ -67,12 +67,12 @@ In Proceedings of International Conference on Neural Information Processing, 40-
  Machine Learning: 107, 1333–1361 (2018). (IF:5.414, Q2) 
 
 1. **Robust Plackett–Luce model for k-ary crowdsourced preferences**\
-Bo Ha#, **Yuangang Pan**#, and Ivor W. Tsang. Machine Learning 107.4 (2018): 675-702. (Equal). (IF:5.414, Q2)
+Bo Ha#, **Yuangang Pan**#, and Ivor W. Tsang.\
+Machine Learning 107.4 (2018): 675-702. (Equal). (IF:5.414, Q2)
 
 # Grants
 1. Handy directional generation of biological synthetics with lazy experts. Career Development Fund (CDF). PI. S$148,000, 1 Sep 2022 - 31 Aug 2024.
   
-
 1. Towards Improving Generalization in Deep Reinforcement Learning. National Natural Science Foundation of China (NSFC). Co-I. 540,000 CNY, 1 Jan 2023 – 31 Dec 2026. 
 
 1. Neural Optimization Kernel and Fast Structured Kernel Approximation for Machine Unlearning. AI3 HTCO Seed Fund 2022. Co-I. S$267,000, 1 Apr 2023 - 31 Mar 2024
