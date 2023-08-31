@@ -1,5 +1,5 @@
 ---
-layout: head_page
+layout: page
 permalink: /tags/
 title: Tags
 type: tags
