@@ -1,6 +1,4 @@
 ---
-layout: archive-taxonomies
-permalink: /tags/
+layout: page
 title: Tags
-type: tags
 ---
