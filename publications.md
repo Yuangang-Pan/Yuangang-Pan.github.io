@@ -6,7 +6,11 @@ type: publications
 ---
 
 # Awards
-- I am currently a research scientist at Centre for Frontier AI Research (CFAR), Agency for Science, Technology and Research (A\*STAR) Singapore.
+1. A*STAR Career Development Fund 2022
+1. UTS FEIT PhD Post-Thesis Publication Award 2019
+1. UTS Vice-Chancellor's Postgraduate Research Student Conference Fund, 2018
+1. UTS President's Scholarship 2017-2019, (10/300+)
+1. Meritorious of the Interdisciplinary Contest in Modeling (ICM), 2013
 
 # Grants
 
