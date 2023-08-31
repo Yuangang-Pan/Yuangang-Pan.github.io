@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /tags/
-title: Tags
-type: tags
+permalink: /publications/
+title: Publications & Awards
+type: publications
 ---
 
 
