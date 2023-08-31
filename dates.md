@@ -1,5 +1,5 @@
 ---
-layout: head_page
+layout: page
 permalink: /dates/
 title: Dates
 type: dates
