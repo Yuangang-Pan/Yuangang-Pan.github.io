@@ -1,6 +1,6 @@
-- type: dates
-  title: Dates
-  url: /dates/
+- type: profile
+  title: Profile
+  url: /profile/
 - type: publications
   title: Publications & Awards
   url: /publications/
