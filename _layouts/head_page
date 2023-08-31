@@ -1,1 +1,15 @@
+---
+layout: default
+---
 
+{% include home-header.html %}
+
+<h1>{{ page.title }}</h1>
+
+
+<script>
+  function backToTop() {
+    const main = document.getElementById("site-main");
+    main.scrollTop = 0;
+  }
+</script>
