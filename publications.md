@@ -5,7 +5,7 @@ title: Publications & Awards
 type: publications
 ---
 
-# Publications
+## Publications
 1. **Taming Overconfident Prediction on Unlabelled Data from Hindsight**\
 Jing Li, **Yuangang Pan***, and Ivor W. Tsang.\
 IEEE Transactions on Neural Networks and Learning Systems. (2023). 10.1109/TNNLS.2023.3274845 (IF:14.255, Q1)
@@ -70,7 +70,7 @@ In Proceedings of International Conference on Neural Information Processing, 40-
 Bo Ha#, **Yuangang Pan**#, and Ivor W. Tsang.\
 Machine Learning 107.4 (2018): 675-702. (Equal). (IF:5.414, Q2)
 
-# Grants
+## Grants
 1. Handy directional generation of biological synthetics with lazy experts. Career Development Fund (CDF). PI. S$148,000, 1 Sep 2022 - 31 Aug 2024.
   
 1. Towards Improving Generalization in Deep Reinforcement Learning. National Natural Science Foundation of China (NSFC). Co-I. 540,000 CNY, 1 Jan 2023 – 31 Dec 2026. 
@@ -79,7 +79,7 @@ Machine Learning 107.4 (2018): 675-702. (Equal). (IF:5.414, Q2)
 
 1. Efficient Materials Design with Fewer Domain Evaluations. A*STAR Pitchfest 2023. Co-I. S$70,000, 1 July 2023 – 30 Jun 2024
 
-# Awards
+## Awards
 - A*STAR Career Development Fund 2022
 
 - UTS FEIT PhD Post-Thesis Publication Award 2019
