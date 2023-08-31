@@ -7,7 +7,9 @@ type: publications
 
 # Publications
 1. **Taming Overconfident Prediction on Unlabelled Data from Hindsight**
+   
 Jing Li, **Yuangang Pan***, and Ivor W. Tsang.  
+
 IEEE Transactions on Neural Networks and Learning Systems. (2023). 10.1109/TNNLS.2023.3274845 (IF:14.255, Q1)
    
 1. Jing Li, **Yuangang Pan***, Yueming Lyu, Yinghua Yao, Yulei Sui, and Ivor W. Tsang, Earning Extra Performance from Restrictive Feedbacks. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2023. 10.1109/TPAMI.2023.3273249 (IF:24.314, Q1).
