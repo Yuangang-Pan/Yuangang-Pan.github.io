@@ -1,6 +1,6 @@
 ---
 layout: head_page
-permalink: /tags/
+permalink: /categories/
 title: Categories
 type: categories
 ---
