@@ -14,6 +14,6 @@ For more information about me, please browse the [README](https://www.linkedin.c
 
 # Recent News
 - Aug 2023, I was invited to serve as PC for ICLR 2023.
-- Jun 2023, I have one paper accepted by IEEE TPAMI (IF 24.314).
+- Jun 2023, I was invited to serve as SPC for AAAI 2024.
+- May 2023, I have one paper accepted by IEEE TPAMI (IF 24.314).
 - May 2023, I have one paper accepted by TNNLS (IF: 14.225).
-- May 2023, I was invited to serve as SPC for AAAI 2024.
