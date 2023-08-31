@@ -4,12 +4,12 @@ permalink: /services/
 title: Professional Services
 type: services
 ---
-# Conference SPC member:
+## Conference SPC member:
 
 - AAAI’22, 23
 
 
-# Conference PC member:
+## Conference PC member:
 
 - NeurIPS’18, 19, 20 ,21, 22
 
@@ -23,7 +23,7 @@ type: services
 
 - AISTATS'19, 20, 21, 22, 23
   
-# Journal Invited Reviewer:
+## Journal Invited Reviewer:
 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 
