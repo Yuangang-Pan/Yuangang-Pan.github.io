@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /categories/
 title: Categories
 ---
 
