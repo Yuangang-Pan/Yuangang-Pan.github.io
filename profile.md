@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /dates/
-title: Dates
-type: dates
+permalink: /profile/
+title: Profile
+type: profile
 ---
 
 
