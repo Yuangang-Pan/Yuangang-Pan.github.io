@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: yuangang
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Yuangang Pan
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://www.linkedin.com/in/pan-yuangang-84bb71123/?originalSubdomain=sg
+    - https://www.a-star.edu.sg/cfar/about-cfar/our-team/pan-yuangang
 google_site_verification: xxxxx
 lang: en
 
