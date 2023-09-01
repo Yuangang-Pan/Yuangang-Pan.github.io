@@ -1,9 +1,6 @@
 ---
-permalink: /
 layout: page
 title: "About me"
-redirect_from: 
-  - /about/
 ---
 
 
