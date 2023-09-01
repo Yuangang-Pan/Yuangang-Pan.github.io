@@ -69,7 +69,7 @@ Yinghua Yao, **Yuangang Pan**, Ivor W. Tsang, and Xin Yao.\
 
 1. **Robust Plackett–Luce model for k-ary crowdsourced preferences**\
 Bo Ha#, **Yuangang Pan**#, and Ivor W. Tsang.\
-*Machine Learning*, 107.4 (2018): 675-702. (Equal). (**IF:5.414, Q2**)
+*Machine Learning*, 107 675-702 (2018). (Equal). (**IF:5.414, Q2**)
 
 ## Grants
 1. Handy directional generation of biological synthetics with lazy experts. Career Development Fund (CDF). PI. S$148,000, 1 Sep 2022 - 31 Aug 2024.
