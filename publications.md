@@ -68,17 +68,17 @@ Yinghua Yao, **Yuangang Pan**, Ivor W. Tsang, and Xin Yao.\
 *Machine Learning*, 107, 1333–1361 (2018). (**IF:5.414, Q2**) 
 
 1. **Robust Plackett–Luce model for k-ary crowdsourced preferences**\
-Bo Ha^1, **Yuangang Pan**^1, and Ivor W. Tsang.\
+Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
 *Machine Learning*, 107 675-702 (2018). (Equal). (**IF:5.414, Q2**)
 
 ## Grants
 1. Handy directional generation of biological synthetics with lazy experts. Career Development Fund (CDF). PI. S$148,000, 1 Sep 2022 - 31 Aug 2024.
   
-1. Towards Improving Generalization in Deep Reinforcement Learning. National Natural Science Foundation of China (NSFC). Co*I. 540,000 CNY, 1 Jan 2023 – 31 Dec 2026. 
+1. Towards Improving Generalization in Deep Reinforcement Learning. National Natural Science Foundation of China (NSFC). Co-I. 540,000 CNY, 1 Jan 2023 – 31 Dec 2026. 
 
-1. Neural Optimization Kernel and Fast Structured Kernel Approximation for Machine Unlearning. AI3 HTCO Seed Fund 2022. Co*I. S$267,000, 1 Apr 2023 - 31 Mar 2024
+1. Neural Optimization Kernel and Fast Structured Kernel Approximation for Machine Unlearning. AI3 HTCO Seed Fund 2022. Co-I. S$267,000, 1 Apr 2023 - 31 Mar 2024
 
-1. Efficient Materials Design with Fewer Domain Evaluations. A*STAR Pitchfest 2023. Co*I. S$70,000, 1 July 2023 – 30 Jun 2024
+1. Efficient Materials Design with Fewer Domain Evaluations. A*STAR Pitchfest 2023. Co-I. S$70,000, 1 July 2023 – 30 Jun 2024
 
 ## Awards
 - A*STAR Career Development Fund 2022
