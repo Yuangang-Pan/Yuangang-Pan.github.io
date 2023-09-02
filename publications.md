@@ -8,11 +8,11 @@ type: publications
 ## Publications （* corresponding author)
 
 1. **Taming Overconfident Prediction on Unlabelled Data from Hindsight**\
-Jing Li, **Yuangang Pan***, and Ivor W. Tsang.\
+Jing Li, **Yuangang Pan**#, and Ivor W. Tsang.\
 *IEEE Transactions on Neural Networks and Learning Systems*. (2023). 10.1109/TNNLS.2023.3274845 (**IF:14.255, Q1**)
    
 1. **Earning Extra Performance from Restrictive Feedbacks**\
-Jing Li, **Yuangang Pan***, Yueming Lyu, Yinghua Yao, Yulei Sui, and Ivor W. Tsang.\
+Jing Li, **Yuangang Pan**#, Yueming Lyu, Yinghua Yao, Yulei Sui, and Ivor W. Tsang.\
 *IEEE Transactions on Neural Networks and Learning Systems*. (2023). 10.1109/TPAMI.2023.3273249 (**IF:24.314, Q1**).
    
 1. **Coarse-to-Fine Contrastive Learning on Graphs**\
@@ -20,7 +20,7 @@ Peiyao Zhao, **Yuangang Pan**, Xin Li, Xu Chen, Ivor W. Tsang, and Lejian Liao.\
 *IEEE Transactions on Neural Networks and Learning Systems*. (2023). 10.1109/TNNLS.2022.3228556. (**IF:14.255, Q1**)
    
 1. **Differential-Critic GAN: Generating What You Want by a Cue of Preferences**\
-Yinghua Yao, **Yuangang Pan***, Ivor W. Tsang, and Xin Yao.\
+Yinghua Yao, **Yuangang Pan**#, Ivor W. Tsang, and Xin Yao.\
 *IEEE Transactions on Neural Networks and Learning Systems*. (2022). 10.1109/TNNLS.2022.3197313. (**IF:14.255, Q1**)
    
 1. **Towards Equivalent Transformation of User Preferences in Cross Domain Recommendation**\
@@ -68,7 +68,7 @@ Yinghua Yao, **Yuangang Pan**, Ivor W. Tsang, and Xin Yao.\
 *Machine Learning*, 107, 1333–1361 (2018). (**IF:5.414, Q2**) 
 
 1. **Robust Plackett–Luce model for k-ary crowdsourced preferences**\
-Bo Ha#, **Yuangang Pan**#, and Ivor W. Tsang.\
+Bo Ha^1^, **Yuangang Pan**#^1^, and Ivor W. Tsang.\
 *Machine Learning*, 107 675-702 (2018). (Equal). (**IF:5.414, Q2**)
 
 ## Grants
