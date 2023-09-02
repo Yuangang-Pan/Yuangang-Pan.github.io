@@ -5,7 +5,7 @@ title: Publications & Awards
 type: publications
 ---
 
-## Publications （* corresponding author)
+## Publications （# corresponding author)
 
 1. **Taming Overconfident Prediction on Unlabelled Data from Hindsight**\
 Jing Li, **Yuangang Pan**#, and Ivor W. Tsang.\
