@@ -29,7 +29,7 @@ Xu Chen, Ya Zhang, Ivor W. Tsang, **Yuangang Pan**, and Jingchao Su.\
 
 1. **Fast and Robust Rank Aggregation against Model Misspecification**\
 **Yuangang Pan**, Ivor W. Tsang, Weijie Chen, Gang Niu, and Masashi Sugiyama.\
-*Journal of -Machine Learning- Research*. 23: 23:1-23:35 (2022) (**IF:5.177, Q1**).
+*Journal of Machine Learning- Research*. 23: 23:1-23:35 (2022) (**IF:5.177, Q1**).
 
 1. **Domain-adversarial Network Alignment**\
 Huiting Hong, Xin Li, **Yuangang Pan**, and Ivor W. Tsang.\
@@ -68,7 +68,7 @@ Yinghua Yao, **Yuangang Pan**, Ivor W. Tsang, and Xin Yao.\
 *Machine Learning*, 107, 1333–1361 (2018). (**IF:5.414, Q2**) 
 
 1. **Robust Plackett–Luce model for k-ary crowdsourced preferences**\
-Bo Ha^1^, **Yuangang Pan**#^1^, and Ivor W. Tsang.\
+Bo Ha^1, **Yuangang Pan**^1, and Ivor W. Tsang.\
 *Machine Learning*, 107 675-702 (2018). (Equal). (**IF:5.414, Q2**)
 
 ## Grants
