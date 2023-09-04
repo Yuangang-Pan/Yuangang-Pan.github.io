@@ -31,7 +31,6 @@ Supervisor: Prof. Masashi Sugiyama, Director of RIKEN Centre for Advanced Intell
 
 **Northwestern Polytechnical University (NWPU), Shaanxi, China**\
 Ph.D., Database & Information Retrieval, Sep-2014 – Dec 2015\
-Supervisor: Prof. Qun Chen
 
 **Northwestern Polytechnical University (NWPU), Shaanxi, China**\
 B.Sc., Mathematics and Applied Mathematics, Sep-2010 – Jun 2014\
