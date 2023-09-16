@@ -7,6 +7,10 @@ type: publications
 
 ## Publications （# corresponding author)
 
+1. **Sanitized Clustering Against Confounding Bias**\
+Yinghua Yao, **Yuangang Pan**, Jing Li, Ivor W. Tsang, Xin Yao.\
+*Machine Learning*, 2023. (**IF:5.414, Q2**)
+
 1. **Taming Overconfident Prediction on Unlabelled Data from Hindsight**\
 Jing Li, **Yuangang Pan**#, and Ivor W. Tsang.\
 *IEEE Transactions on Neural Networks and Learning Systems*. (2023). 10.1109/TNNLS.2023.3274845 (**IF:14.255, Q1**)
