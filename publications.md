@@ -33,7 +33,7 @@ Xu Chen, Ya Zhang, Ivor W. Tsang, **Yuangang Pan**, and Jingchao Su.\
 
 1. **Fast and Robust Rank Aggregation against Model Misspecification**\
 **Yuangang Pan**, Ivor W. Tsang, Weijie Chen, Gang Niu, and Masashi Sugiyama.\
-*Journal of Machine Learning- Research*. 23: 23:1-23:35 (2022) (**IF:5.177, Q1**).
+*Journal of Machine Learning Research*. 23: 23:1-23:35 (2022) (**IF:5.177, Q1**).
 
 1. **Domain-adversarial Network Alignment**\
 Huiting Hong, Xin Li, **Yuangang Pan**, and Ivor W. Tsang.\
