@@ -7,6 +7,10 @@ type: publications
 
 ## Publications （# corresponding author)
 
+1. **Learning node representations against perturbations**\
+Xu Chen, **Yuangang Pan**, Ivor Tsang, Ya Zhang.\
+*Pattern Recognition*, 2023. (**IF:8.518, Q1**)
+
 1. **Sanitized Clustering Against Confounding Bias**\
 Yinghua Yao, **Yuangang Pan**, Jing Li, Ivor W. Tsang, Xin Yao.\
 *Machine Learning*, 2023. (**IF:5.414, Q2**)
