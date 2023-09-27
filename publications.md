@@ -7,7 +7,7 @@ type: publications
 
 ## Publications （# corresponding author)
 
-1. [**Learning node representations against perturbations**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/PR_Pan.pdf)\
+1. [**Learning node representations against perturbations**](../Publications/PR_Pan.pdf)\
 Xu Chen, **Yuangang Pan**, Ivor Tsang, Ya Zhang.\
 *Pattern Recognition*. (2023). https://doi.org/10.1016/j.patcog.2023.109976 (**IF:8.518, Q1**)
 
