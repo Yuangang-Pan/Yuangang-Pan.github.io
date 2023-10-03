@@ -21,7 +21,7 @@ Jing Li, **Yuangang Pan**#, and Ivor W. Tsang.\
    
 1. **Earning Extra Performance from Restrictive Feedbacks**\
 Jing Li, **Yuangang Pan**#, Yueming Lyu, Yinghua Yao, Yulei Sui, and Ivor W. Tsang.\
-*IEEE Transactions on Neural Networks and Learning Systems*. (2023). 10.1109/TPAMI.2023.3273249 (**IF:24.314, Q1**).
+*IEEE Transactions on Pattern Analysis and Machine Intelligence*. (2023). 10.1109/TPAMI.2023.3273249 (**IF:24.314, Q1**).
    
 1. **Coarse-to-Fine Contrastive Learning on Graphs**\
 Peiyao Zhao, **Yuangang Pan**, Xin Li, Xu Chen, Ivor W. Tsang, and Lejian Liao.\
