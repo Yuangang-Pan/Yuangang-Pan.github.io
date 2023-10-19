@@ -19,18 +19,17 @@ Supervisor: Research Director of Australia AI Institute & Prof. Ivor W. Tsang
 Research Assistant, Oct 2019 – Mar 2020\
 Supervisor: Research Director of Australia AI Institute & Prof. Ivor W. Tsang
 
+**RIKEN, JAPAN**\
+Research Intern, Coarsen Bayesian, Mar-2019 – May 2019\
+Supervisor: Prof. Masashi Sugiyama, Director of RIKEN Centre for Advanced Intelligence Project 
+
 ## Education		
 **University of Technology Sydney (UTS), Australia**\
 Ph.D., Statistical Machine Learning, Mar-2016 – Oct 2019\
 Supervisor: Prof. Ivor W. Tsang, Research Director of Australia AI Institute
 
-**RIKEN, JAPAN**\
-Research Intern, Coarsen Bayesian, Mar-2019 – May 2019\
-Supervisor: Prof. Masashi Sugiyama, Director of RIKEN Centre for Advanced Intelligence Project 
-
-
-**Northwestern Polytechnical University (NWPU), Shaanxi, China**\
-Ph.D., Database & Information Retrieval, Sep-2014 – Dec 2015
+~~**Northwestern Polytechnical University (NWPU), Shaanxi, China**~~\
+~~Ph.D., Database & Information Retrieval, Sep-2014 – Dec 2015~~
 
 **Northwestern Polytechnical University (NWPU), Shaanxi, China**\
 B.Sc., Mathematics and Applied Mathematics, Sep-2010 – Jun 2014\
