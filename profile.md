@@ -29,7 +29,8 @@ Ph.D., Statistical Machine Learning, Mar-2016 – Oct 2019\
 Supervisor: Prof. Ivor W. Tsang, Research Director of Australia AI Institute
 
 ~~**Northwestern Polytechnical University (NWPU), Shaanxi, China**~~\
-~~Ph.D., Database & Information Retrieval, Sep-2014 – Dec 2015~~
+~~Ph.D., Database & Information Retrieval, Sep-2014 – Dec 2015~~\
+After one year's study in Database, I realised I am much more interested in Machine Learning, so I followed my heart, and gave up my Ph.D. finally.
 
 **Northwestern Polytechnical University (NWPU), Shaanxi, China**\
 B.Sc., Mathematics and Applied Mathematics, Sep-2010 – Jun 2014\
