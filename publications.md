@@ -7,9 +7,13 @@ type: publications
 
 ## Publications （# corresponding author)
 
+1. [**PC-X: Profound Clustering via Slow Exemplars**](../Publications/CPAL_Pan.pdf)\
+**Yuangang Pan**, Yinghua Yao, Ivor Tsang.\
+*Conference on Parsimony and Learning (CPAL)*. (2024).
+
 1. [**Learning node representations against perturbations**](../Publications/PR_Pan.pdf)\
 Xu Chen, **Yuangang Pan**, Ivor Tsang, Ya Zhang.\
-*Pattern Recognition*. (2023). https://doi.org/10.1016/j.patcog.2023.109976 (**IF:8.518, Q1**)
+*Pattern Recognition*. (2024). https://doi.org/10.1016/j.patcog.2023.109976 (**IF:8.518, Q1**)
 
 1. **Sanitized Clustering Against Confounding Bias**\
 Yinghua Yao, **Yuangang Pan**, Jing Li, Ivor W. Tsang, Xin Yao.\
@@ -80,7 +84,9 @@ Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
 *Machine Learning*, 107 675-702 (2018). (Equal). (**IF:5.414, Q2**)
 
 ## Grants
-1. Handy directional generation of biological synthetics with lazy experts. Career Development Fund (CDF). PI. S$148,000, 1 Sep 2022 - 31 Aug 2024.
+1. AI in RNA 3D-structure prediction. A*STAR GAP funding. Co-PI. S$985,400, 1 Dec 2023 - 30 Nov 2024.
+
+1. Handy directional generation of biological synthetics with lazy experts. A*STAR Career Development Fund (CDF). PI. S$148,000, 1 Sep 2022 - 31 Aug 2024.
   
 1. Towards Improving Generalization in Deep Reinforcement Learning. National Natural Science Foundation of China (NSFC). Co-I. 540,000 CNY, 1 Jan 2023 – 31 Dec 2026. 
 
