@@ -27,6 +27,6 @@ type: services
 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 
-- IEEE IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Neural Networks and Learning Systems
 
 - Machine Learning
