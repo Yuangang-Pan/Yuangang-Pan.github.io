@@ -7,7 +7,7 @@ type: publications
 
 ## Publications （# corresponding author)
 
-1. [**PC-X: Profound Clustering via Slow Exemplars**](../Publications/CPAL_Pan.pdf)\
+1. [**PC-X: Profound Clustering via Slow Exemplars**](https://openreview.net/forum?id=yhGKPtRoOx)\
 **Yuangang Pan**, Yinghua Yao, Ivor Tsang.\
 *Conference on Parsimony and Learning (CPAL)*. (2024).
 
