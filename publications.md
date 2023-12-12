@@ -5,23 +5,7 @@ title: Publications & Awards
 type: publications
 ---
 
-## Publications（# corresponding author)
-
-Works about AI + X
-
-1. [**Association of blood pressure with brain ages: a cohort study of grey and white matter ageing discrepancy in mid-to-older adults from UK Biobank**](https://www.ahajournals.org/journal/hyp)\
-Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben Chun Pan Lam, Aletta Schutte, Ivor Tsang, Perminder Sachdev, Wei Wen.\
-*Hypertension*. (2024).  (**IF:8.3, Q1**)
-
-1. **Online Mental Fatigue Monitoring via Indirect Brain Dynamics Evaluation**\
-**Yuangang Pan**, Ivor W. Tsang, Yueming Lyu, Avinash K Singh, and Chin-teng Lin.\
-*Neural Computation*.  33(6): 1616-1655 (2021) (**IF:3.278, Q1**) 
-
-1. **Stochastic Multi-Channel Ranking with Brain Dynamics Preferences**\
-**Yuangang Pan**, Ivor W. Tsang, Avinash K Singh, and Chin-teng Lin, Masashi Sugiyama.\
-*Neural Computation*. 32(8): 1499-1530 (2020) (**IF:3.278, Q1**)
-
-Workds about Machine Learning
+## Publications in Machine Learning（# corresponding author)
 
 1. [**PC-X: Profound Clustering via Slow Exemplars**](https://openreview.net/forum?id=yhGKPtRoOx)\
 **Yuangang Pan**, Yinghua Yao, Ivor Tsang.\
@@ -90,6 +74,21 @@ Proceedings of *International Conference on Neural Information Processing*, 40-4
 1. **Robust Plackett–Luce model for k-ary crowdsourced preferences**\
 Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
 *Machine Learning*, 107 675-702 (2018). (Equal). (**IF:5.414, Q2**)
+
+
+## Publications in  AI + X（# corresponding author)
+
+1. [**Association of blood pressure with brain ages: a cohort study of grey and white matter ageing discrepancy in mid-to-older adults from UK Biobank**](https://www.ahajournals.org/journal/hyp)\
+Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben Chun Pan Lam, Aletta Schutte, Ivor Tsang, Perminder Sachdev, Wei Wen.\
+*Hypertension*. (2024).  (**IF:8.3, Q1**)
+
+1. **Online Mental Fatigue Monitoring via Indirect Brain Dynamics Evaluation**\
+**Yuangang Pan**, Ivor W. Tsang, Yueming Lyu, Avinash K Singh, and Chin-teng Lin.\
+*Neural Computation*.  33(6): 1616-1655 (2021) (**IF:3.278, Q1**) 
+
+1. **Stochastic Multi-Channel Ranking with Brain Dynamics Preferences**\
+**Yuangang Pan**, Ivor W. Tsang, Avinash K Singh, and Chin-teng Lin, Masashi Sugiyama.\
+*Neural Computation*. 32(8): 1499-1530 (2020) (**IF:3.278, Q1**)
 
 ## Grants
 1. AI in RNA 3D-structure prediction. A*STAR GAP funding. Co-PI. S$985,400, 1 Dec 2023 - 30 Nov 2024.
