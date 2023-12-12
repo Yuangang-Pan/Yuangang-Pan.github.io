@@ -7,6 +7,10 @@ type: publications
 
 ## Publications （# corresponding author)
 
+1. [**Association of blood pressure with brain ages: a cohort study of grey and white matter ageing discrepancy in mid-to-older adults from UK Biobank**](https://www.ahajournals.org/journal/hyp)\
+Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben Chun Pan Lam, Aletta Schutte, Ivor Tsang, Perminder Sachdev, Wei Wen.\
+*Hypertension*. (2024).  (**IF:8.3, Q1**)
+
 1. [**PC-X: Profound Clustering via Slow Exemplars**](https://openreview.net/forum?id=yhGKPtRoOx)\
 **Yuangang Pan**, Yinghua Yao, Ivor Tsang.\
 *Conference on Parsimony and Learning (CPAL)*. (2024).
