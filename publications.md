@@ -9,7 +9,7 @@ type: publications
 
 1. [**PC-X: Profound Clustering via Slow Exemplars**](https://openreview.net/forum?id=yhGKPtRoOx)\
 **Yuangang Pan**, Yinghua Yao, Ivor Tsang.\
-*Conference on Parsimony and Learning (CPAL)*. (2024).
+Proceedings of *Conference on Parsimony and Learning (CPAL)*. (2024).
 
 1. [**Learning node representations against perturbations**](../Publications/PR_Pan.pdf)\
 Xu Chen, **Yuangang Pan**, Ivor Tsang, Ya Zhang.\
@@ -61,11 +61,11 @@ Bo Han, Quanming Yao, **Yuangang Pan**, Ivor W. Tsang, Xiaokui Xiao, Qiang Yang,
 
 1. **Label embedding with partial heterogeneous contexts**\
 Yaxin Shi, Donna Xu, **Yuangang Pan**, and Ivor W. Tsang.\
-*Proceedings of the AAAI Conference on Artificial Intelligence*, 33(01), 4926-4933. (2019). 
+Proceedings of *AAAI Conference on Artificial Intelligence*, 33(01), 4926-4933. (2019). 
 
 1. **Support Matching: A Novel Regularization to Escape from Mode Collapse in GANs**\
 Yinghua Yao, **Yuangang Pan**, Ivor W. Tsang, and Xin Yao.\
-*In Proceedings of International Conference on Neural Information Processing*, 40-48. (2019)
+Proceedings of *International Conference on Neural Information Processing*, 40-48. (2019)
 
 1. **Stagewise learning for noisy k-ary preferences**\
 **Yuangang Pan**, Bo Han, and Ivor W. Tsang.\
