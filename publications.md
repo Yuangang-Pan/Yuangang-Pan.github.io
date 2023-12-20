@@ -78,7 +78,7 @@ Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
 
 ## Publications in  AI + X（# corresponding author)
 
-1. [**Association of blood pressure with brain ages: a cohort study of grey and white matter ageing discrepancy in mid-to-older adults from UK Biobank**]((https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.22176)\
+1. [**Association of blood pressure with brain ages: a cohort study of grey and white matter ageing discrepancy in mid-to-older adults from UK Biobank**](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.22176)\
 Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben Chun Pan Lam, Aletta Schutte, Ivor Tsang, Perminder Sachdev, Wei Wen.\
 *Hypertension*. (2024).  (**IF:8.3, Q1**)
 
