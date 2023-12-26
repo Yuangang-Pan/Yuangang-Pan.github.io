@@ -91,7 +91,7 @@ Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
 
 
 ## Patents
-1. [**Generation type confrontation network embedded representation learning method**](https://patents.google.com/patent/CN111611785A/zh)\
+1. [**一种生成式对抗网络嵌入式表示学习方法**](https://patents.google.com/patent/CN111611785A/zh)\
 礼欣, 吴昊, 洪辉婷, 潘元刚, 曾伟鸿。\
 *CN111611785A*, Sep 2020.
 
