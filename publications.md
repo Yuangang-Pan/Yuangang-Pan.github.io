@@ -89,12 +89,12 @@ Proceedings of *International Conference on Neural Information Processing*, 40-4
 Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
 *Machine Learning*, 107 675-702 (2018). (Equal). (**IF:5.414, Q2**)
 
-
+<!--
 ## Patents
 1. [**一种生成式对抗网络嵌入式表示学习方法**](https://patents.google.com/patent/CN111611785A/zh)\
 礼欣, 吴昊, 洪辉婷, 潘元刚, 曾伟鸿。\
 *CN111611785A*, Sep 2020.
-
+-->
 
 ## Grants
 1. AI in RNA 3D-structure prediction. A*STAR GAP funding. Co-PI. S$985,400, 1 Dec 2023 - 30 Nov 2024.
