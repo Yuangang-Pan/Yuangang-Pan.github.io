@@ -15,7 +15,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben Chun Pan Lam, Aletta Schut
 **Yuangang Pan**, Ivor W. Tsang, Yueming Lyu, Avinash K Singh, and Chin-teng Lin.\
 *Neural Computation*.  33(6): 1616-1655 (2021) (**IF:3.278, Q1**) 
 
-1. [**Stochastic Multi-Channel Ranking with Brain Dynamics Preferences**](https://link.springer.com/article/10.1007/s10994-023-06451-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231228&utm_content=10.1007/s10994-023-06451-5)\
+1. **Stochastic Multi-Channel Ranking with Brain Dynamics Preferences**\
 **Yuangang Pan**, Ivor W. Tsang, Avinash K Singh, and Chin-teng Lin, Masashi Sugiyama.\
 *Neural Computation*. 32(8): 1499-1530 (2020) (**IF:3.278, Q1**)
 
