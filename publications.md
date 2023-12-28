@@ -29,7 +29,7 @@ Proceedings of *Conference on Parsimony and Learning (CPAL)*. (2024).
 Xu Chen, **Yuangang Pan**, Ivor Tsang, Ya Zhang.\
 *Pattern Recognition*. (2024). https://doi.org/10.1016/j.patcog.2023.109976 (**IF:8.518, Q1**)
 
-1. **Sanitized Clustering Against Confounding Bias**\
+1. [**Sanitized Clustering Against Confounding Bias**](https://link.springer.com/article/10.1007/s10994-023-06451-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231228&utm_content=10.1007/s10994-023-06451-5)\
 Yinghua Yao, **Yuangang Pan**, Jing Li, Ivor W. Tsang, Xin Yao.\
 *Machine Learning*. (2023). (**IF:5.414, Q2**)
 
