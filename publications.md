@@ -23,7 +23,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben Chun Pan Lam, Aletta Schut
 
 1. [**PC-X: Profound Clustering via Slow Exemplars**](https://openreview.net/forum?id=yhGKPtRoOx)\
 **Yuangang Pan**, Yinghua Yao, Ivor Tsang.\
-Proceedings of *Conference on Parsimony and Learning (CPAL)*. (2024). **Best Paper Award**. 
+Proceedings of *Conference on Parsimony and Learning (CPAL)*. (2024). [**Best Paper Award**](https://cpal.cc/). 
 
 1. [**Learning node representations against perturbations**](../Publications/PR_Pan.pdf)\
 Xu Chen, **Yuangang Pan**, Ivor Tsang, Ya Zhang.\
