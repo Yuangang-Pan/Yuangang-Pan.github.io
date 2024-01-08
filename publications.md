@@ -108,6 +108,8 @@ Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
 1. Efficient Materials Design with Fewer Domain Evaluations. A*STAR Pitchfest 2023. Co-I. S$70,000, 1 July 2023 – 30 Jun 2024
 
 ## Awards
+- CPAL2024 Best Paper Award
+
 - A*STAR Career Development Fund 2022
 
 - UTS FEIT PhD Post-Thesis Publication Award 2019
