@@ -110,7 +110,7 @@ Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
 ## Awards
 - CPAL Best Paper Award 2024
 
-- A*STAR Career Development Fund 2022
+- A*STAR Career Development Fund 2022-2024
 
 - UTS FEIT PhD Post-Thesis Publication Award 2019
 
