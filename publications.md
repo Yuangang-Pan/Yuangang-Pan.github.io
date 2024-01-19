@@ -7,6 +7,10 @@ type: publications
 
 ## Publications in  AI + X（# corresponding author)
 
+1. [**White matter brain age as a biomarker of cerebrovascular burden in the ageing brain**](https://www.medrxiv.org/content/10.1101/2022.02.06.22270484v1)\
+Jing Du, **Yuangang Pan**, Jiyang Jiang, Ben C. P. Lam, Anbupalam Thalamuthu, Rory Chen, Ivor W. Tsang, Perminder S. Sachdev, Wei Wen
+*European Archives of Psychiatry and Clinical Neuroscience*. (2024). (**IF:4.7, Q2**)
+
 1. [**Association of blood pressure with brain ages: a cohort study of grey and white matter ageing discrepancy in mid-to-older adults from UK Biobank**](../Publications/HTN_Jing.pdf), [Weblink](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.22176)\
 Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben Chun Pan Lam, Aletta Schutte, Ivor Tsang, Perminder Sachdev, Wei Wen.\
 *Hypertension*. (2024).  (**IF:8.3, Q1**) 
