@@ -7,6 +7,10 @@ type: publications
 
 ## Publications in  AI + X（# corresponding author)
 
+1. **The brain age of hippocampus-centred regions and associations with APOE genotype**\
+Chao Dong, **Yuangang Pan**, Anbupalam Thalamuthu, Jiyang Jiang, Karen Mather, Perminder Sachdev, Wei Wen\
+*Human Brain Mapping (OHBM) Annual Meeting*. (2024). ([**A**](https://lib.tsinghua.edu.cn/PDF/subject_ACC.pdf))
+
 1. [**White matter brain age as a biomarker of cerebrovascular burden in the ageing brain**](https://www.medrxiv.org/content/10.1101/2022.02.06.22270484v1)\
 Jing Du, **Yuangang Pan**, Jiyang Jiang, Ben C. P. Lam, Anbupalam Thalamuthu, Rory Chen, Ivor Tsang, Perminder Sachdev, Wei Wen\
 *European Archives of Psychiatry and Clinical Neuroscience*. (2024). (**IF:4.7, Q2**)
