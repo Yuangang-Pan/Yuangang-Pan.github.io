@@ -7,7 +7,7 @@ type: services
 ## Conference SPC member:
 
 - AAAI’22, 23
-- IEEE CAI 2024 ([**2024**](https://ieeecai.org/2024/))
+- IEEE CAI [**2024**](https://ieeecai.org/2024/)
 
 
 ## Conference PC member:
