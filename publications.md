@@ -31,7 +31,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 1. **BGAE: Auto-encoding Multi-view Bipartite Graph Clustering**\
 Liang Li, **Yuangang Pan**, Jie Liu, Yue Liu, Xinwang Liu, Kenli Li, Ivor Tsang, Keqin Li.\
-*IEEE Transactions on Knowledge and Data Engineering*. Accepted (2024) (**IF: 8.9, Q1**) 
+*IEEE Transactions on Knowledge and Data Engineering*. Accepted (2024). 10.1109/TKDE.2024.3363217. (**IF: 8.9, Q1**) 
 
 1. [**PC-X: Profound Clustering via Slow Exemplars**](https://openreview.net/forum?id=yhGKPtRoOx)\
 **Yuangang Pan**, Yinghua Yao, Ivor Tsang.\
@@ -51,7 +51,7 @@ Jing Li, **Yuangang Pan**#, and Ivor W. Tsang.\
    
 1. **Earning Extra Performance from Restrictive Feedbacks**\
 Jing Li, **Yuangang Pan**#, Yueming Lyu, Yinghua Yao, Yulei Sui, and Ivor W. Tsang.\
-*IEEE Transactions on Pattern Analysis and Machine Intelligence*. (2023). 10.1109/TPAMI.2023.3273249 (**IF:24.314, Q1**).
+*IEEE Transactions on Pattern Analysis and Machine Intelligence*. (2023). 10.1109/TPAMI.2023.3273249. (**IF:24.314, Q1**).
    
 1. **Coarse-to-Fine Contrastive Learning on Graphs**\
 Peiyao Zhao, **Yuangang Pan**, Xin Li, Xu Chen, Ivor W. Tsang, and Lejian Liao.\
