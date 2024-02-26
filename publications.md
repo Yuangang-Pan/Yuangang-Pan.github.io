@@ -29,7 +29,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
-1. **BGAE: Auto-encoding Multi-view Bipartite Graph Clustering**\
+1. [**BGAE: Auto-encoding Multi-view Bipartite Graph Clustering**](https://ieeexplore.ieee.org/abstract/document/10423800)\
 Liang Li, **Yuangang Pan**, Jie Liu, Yue Liu, Xinwang Liu, Kenli Li, Ivor Tsang, Keqin Li.\
 *IEEE Transactions on Knowledge and Data Engineering*. Accepted (2024). 10.1109/TKDE.2024.3363217. (**IF: 8.9, Q1**) 
 
