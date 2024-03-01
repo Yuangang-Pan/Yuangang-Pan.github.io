@@ -11,13 +11,13 @@ type: publications
 Chao Dong, **Yuangang Pan**, Anbupalam Thalamuthu, Jiyang Jiang, Karen Mather, Perminder Sachdev, Wei Wen\
 *Human Brain Mapping (OHBM) Annual Meeting*. (2024). ([**Level-A medical conference**](https://lib.tsinghua.edu.cn/PDF/subject_ACC.pdf))
 
-1. [**White matter brain age as a biomarker of cerebrovascular burden in the ageing brain**](https://www.medrxiv.org/content/10.1101/2022.02.06.22270484v1)\
+1. [**White matter brain age as a biomarker of cerebrovascular burden in the ageing brain**](https://link.springer.com/article/10.1007/s00406-024-01758-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240229&utm_content=10.1007/s00406-024-01758-3)\
 Jing Du, **Yuangang Pan**, Jiyang Jiang, Ben C. P. Lam, Anbupalam Thalamuthu, Rory Chen, Ivor Tsang, Perminder Sachdev, Wei Wen\
 *European Archives of Psychiatry and Clinical Neuroscience*. (2024). (**IF:4.7, Q2**)
 
 1. [**Association of blood pressure with brain ages: a cohort study of grey and white matter ageing discrepancy in mid-to-older adults from UK Biobank**](../Publications/HTN_Jing.pdf), [Weblink](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.22176)\
 Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte, Ivor Tsang, Perminder Sachdev, Wei Wen.\
-*Hypertension*. (2024).  (**IF:8.3, Q1**) 
+*Hypertension*. (2024).  (**IF:8.3, Q1**) [code](https://github.com/Yuangang-Pan/Association-of-blood-pressure-with-brain-ages)
 
 1. **Online Mental Fatigue Monitoring via Indirect Brain Dynamics Evaluation**\
 **Yuangang Pan**, Ivor W. Tsang, Yueming Lyu, Avinash K Singh, and Chin-teng Lin.\
