@@ -15,7 +15,7 @@ Chao Dong, **Yuangang Pan**, Anbupalam Thalamuthu, Jiyang Jiang, Karen Mather, P
 Jing Du, **Yuangang Pan**, Jiyang Jiang, Ben C. P. Lam, Anbupalam Thalamuthu, Rory Chen, Ivor Tsang, Perminder Sachdev, Wei Wen\
 *European Archives of Psychiatry and Clinical Neuroscience*. (2024). (**IF:4.7, Q2**)
 
-1. [**Association of blood pressure with brain ages: a cohort study of grey and white matter ageing discrepancy in mid-to-older adults from UK Biobank**](../Publications/HTN_Jing.pdf),[Weblink](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.22176)\
+1. [**Association of blood pressure with brain ages: a cohort study of grey and white matter ageing discrepancy in mid-to-older adults from UK Biobank**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/PR_Pan.pdf),[Weblink](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.22176)\
 Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte, Ivor Tsang, Perminder Sachdev, Wei Wen.\
 *Hypertension*. (2024).  (**IF:8.3, Q1**) [Code avaliable](https://github.com/Yuangang-Pan/Association-of-blood-pressure-with-brain-ages)
 
