@@ -29,6 +29,10 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
+1. **Generative Adversarial Ranking Nets**\
+Yinghua Yao, **Yuangang Pan**#, Jing Li, Ivor W. Tsang, Xin Yao.\
+*Journal of Machine Learning Research*. (2024). (**Top-1 in Machine Learning**)
+
 1. [**BGAE: Auto-encoding Multi-view Bipartite Graph Clustering**](https://ieeexplore.ieee.org/abstract/document/10423800)\
 Liang Li, **Yuangang Pan**, Jie Liu, Yue Liu, Xinwang Liu, Kenli Li, Ivor Tsang, Keqin Li.\
 *IEEE Transactions on Knowledge and Data Engineering*. (2024). 10.1109/TKDE.2024.3363217. (**IF: 8.9, Q1**) 
@@ -67,7 +71,7 @@ Xu Chen, Ya Zhang, Ivor W. Tsang, **Yuangang Pan**, and Jingchao Su.\
 
 1. **Fast and Robust Rank Aggregation against Model Misspecification**\
 **Yuangang Pan**, Ivor W. Tsang, Weijie Chen, Gang Niu, and Masashi Sugiyama.\
-*Journal of Machine Learning Research*. 23: 23:1-23:35 (2022) (**IF:5.177, Q1**).
+*Journal of Machine Learning Research*. 23: 23:1-23:35 (2022) (**Top-1 in Machine Learning**).
 
 1. **Domain-adversarial Network Alignment**\
 Huiting Hong, Xin Li, **Yuangang Pan**, and Ivor W. Tsang.\
