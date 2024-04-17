@@ -31,7 +31,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 1. **Fast Unpaired Multi-view Clustering**\
 Xingfeng Li, **Yuangang Pan**, Yinghui Sun, Quansen Sun, Ivor W. Tsang, Zhenwen Ren.\
-*International Joint Conference on Artificial Intelligence*. (2024).
+*Proceedings of the 33rd International Joint Conference on Artificial Intelligence*. (2024).
 
 1. **Generative Adversarial Ranking Nets**\
 Yinghua Yao, **Yuangang Pan**#, Jing Li, Ivor W. Tsang, Xin Yao.\
