@@ -33,9 +33,9 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 Xingfeng Li, **Yuangang Pan**, Yinghui Sun, Quansen Sun, Ivor W. Tsang, Zhenwen Ren.\
 *Proceedings of the 33rd International Joint Conference on Artificial Intelligence*. (2024).
 
-1. **Generative Adversarial Ranking Nets**\
+1. [**Generative Adversarial Ranking Nets**](https://jmlr.org/papers/volume25/23-0461/23-0461.pdf)\
 Yinghua Yao, **Yuangang Pan**#, Jing Li, Ivor W. Tsang, Xin Yao.\
-*Journal of Machine Learning Research*. (2024). (**Top-1 in Machine Learning**)
+*Journal of Machine Learning Research*. (2024). [Code avaliable](https://github.com/EvaFlower/GARNet) (**Top-1 in Machine Learning**)
 
 1. [**BGAE: Auto-encoding Multi-view Bipartite Graph Clustering**](https://ieeexplore.ieee.org/abstract/document/10423800)\
 Liang Li, **Yuangang Pan**, Jie Liu, Yue Liu, Xinwang Liu, Kenli Li, Ivor Tsang, Keqin Li.\
