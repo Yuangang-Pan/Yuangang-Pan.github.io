@@ -11,10 +11,10 @@ I am currently a senior scientist at Centre for Frontier AI Research (CFAR), Age
 
 
 **Centre for Frontier AI Research (CFAR), A*STAR Singapore**\
-Senior Research Scientist, Apr 2024 – Present
+Senior Scientist, Apr 2024 – Present
 
 **Centre for Frontier AI Research (CFAR), A*STAR Singapore**\
-Research Scientist, Jan 2022 – Mar 2024
+Scientist, Jan 2022 – Mar 2024
 
 **University of Technology Sydney (UTS), Australia**\
 Postdoctoral Research Associate, Mar 2020 – Sep 2021\
