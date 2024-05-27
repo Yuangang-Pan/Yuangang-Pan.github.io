@@ -33,7 +33,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 Xingfeng Li, **Yuangang Pan**, Yinghui Sun, Quansen Sun, Ivor W. Tsang, Zhenwen Ren.\
 *Proceedings of the 33rd International Joint Conference on Artificial Intelligence*. (2024).
 
-1. [**Generative Adversarial Ranking Nets**](https://jmlr.org/papers/volume25/23-0461/23-0461.pdf)\
+1. [**Generative Adversarial Ranking Nets**](https://jmlr.org/papers/v25/23-0461.html)\
 Yinghua Yao, **Yuangang Pan**#, Jing Li, Ivor W. Tsang, Xin Yao.\
 *Journal of Machine Learning Research*. (2024). [Code avaliable](https://github.com/EvaFlower/GARNet) (**Top-1 in Machine Learning**)
 
