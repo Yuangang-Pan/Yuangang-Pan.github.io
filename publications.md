@@ -29,6 +29,10 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
+1. **POUD: ParetO-gUided Diffusion Model for Multi-objective Generation**\
+Yinghua Yao, **Yuangang Pan**#, Jing Li, Ivor W. Tsang, Xin Yao.\
+*Machine Learning*. (2024). Code will be avaliable soon.
+
 1. **Fast Unpaired Multi-view Clustering**\
 Xingfeng Li, **Yuangang Pan**, Yinghui Sun, Quansen Sun, Ivor W. Tsang, Zhenwen Ren.\
 *Proceedings of the 33rd International Joint Conference on Artificial Intelligence*. (2024).
