@@ -29,7 +29,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
-1. **POUD: ParetO-gUided Diffusion Model for Multi-objective Generation**\
+1. [**POUD: ParetO-gUided Diffusion Model for Multi-objective Generation**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/POUD.pdf)\
 Yinghua Yao, **Yuangang Pan**#, Jing Li, Ivor W. Tsang, Xin Yao.\
 *Machine Learning*. (2024). Code will be avaliable soon.
 
