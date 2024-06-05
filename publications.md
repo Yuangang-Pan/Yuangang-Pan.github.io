@@ -7,7 +7,7 @@ type: publications
 
 ## Publications in  AI + X（# corresponding author)
 
-1. **The brain age of hippocampus-centred regions and associations with APOE genotype**\
+1. [**The brain age of hippocampus-centred regions and associations with APOE genotype**](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=2228)\
 Chao Dong, **Yuangang Pan**, Anbupalam Thalamuthu, Jiyang Jiang, Karen Mather, Perminder Sachdev, Wei Wen\
 *Human Brain Mapping (OHBM) Annual Meeting*. (2024). ([**Level-A medical conference**](https://lib.tsinghua.edu.cn/PDF/subject_ACC.pdf))
 
