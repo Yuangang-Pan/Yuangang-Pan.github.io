@@ -31,7 +31,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 1. [**POUD: ParetO-gUided Diffusion Model for Multi-objective Generation**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/POUD.pdf)\
 Yinghua Yao, **Yuangang Pan**#, Jing Li, Ivor W. Tsang, Xin Yao.\
-*Machine Learning*. (2024). Code will be avaliable soon.
+*Machine Learning*. Journal track of ECML/PKDD 2024. Code will be avaliable soon.
 
 1. **Fast Unpaired Multi-view Clustering**\
 Xingfeng Li, **Yuangang Pan**, Yinghui Sun, Quansen Sun, Ivor W. Tsang, Zhenwen Ren.\
@@ -55,7 +55,7 @@ Xu Chen, **Yuangang Pan**, Ivor Tsang, Ya Zhang.\
 
 1. [**Sanitized Clustering Against Confounding Bias**](https://link.springer.com/article/10.1007/s10994-023-06451-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231228&utm_content=10.1007/s10994-023-06451-5)\
 Yinghua Yao, **Yuangang Pan**, Jing Li, Ivor W. Tsang, Xin Yao.\
-*Machine Learning*. (2023). (**IF:5.414, Q2**)
+*Machine Learning*. (2023). Journal track of ACML 2023. (**IF:5.414, Q2**)
 
 1. **Taming Overconfident Prediction on Unlabelled Data from Hindsight**\
 Jing Li, **Yuangang Pan**#, and Ivor W. Tsang.\
@@ -95,7 +95,7 @@ Jing Li, **Yuangang Pan**, Yulei Sui, and Ivor W. Tsang.\
 
 1. **Millionaire: A Hint-guided Approach for Crowdsourcing**\
 Bo Han, Quanming Yao, **Yuangang Pan**, Ivor W. Tsang, Xiaokui Xiao, Qiang Yang, and Masashi Sugiyama.\
-*Machine Learning*, 108, pages831–858 (2019). (**IF:5.414, Q2**)
+*Machine Learning*, 108, pages831–858 (2019). Journal track of ACML 2018. (**IF:5.414, Q2**)
 
 1. **Label embedding with partial heterogeneous contexts**\
 Yaxin Shi, Donna Xu, **Yuangang Pan**, and Ivor W. Tsang.\
@@ -107,11 +107,11 @@ Proceedings of *International Conference on Neural Information Processing*, 40-4
 
 1. **Stagewise learning for noisy k-ary preferences**\
 **Yuangang Pan**, Bo Han, and Ivor W. Tsang.\
-*Machine Learning*, 107, 1333–1361 (2018). (**IF:5.414, Q2**) 
+*Machine Learning*, 107, 1333–1361 (2018). Journal track of ECML/PKDD 2018. (**IF:5.414, Q2**) 
 
 1. **Robust Plackett–Luce model for k-ary crowdsourced preferences**\
 Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
-*Machine Learning*, 107 675-702 (2018). (Equal). (**IF:5.414, Q2**)
+*Machine Learning*, 107 675-702 (2018). (Equal). Journal track of ACML 2017. (**IF:5.414, Q2**)
 
 <!--
 ## Patents
