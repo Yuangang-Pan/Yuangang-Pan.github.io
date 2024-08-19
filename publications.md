@@ -7,6 +7,10 @@ type: publications
 
 ## Publications in  AI + X（# corresponding author)
 
+1. [**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/POUD.pdf)\
+Yinghua Yao, **Yuangang Pan**#, Jing Li, Ivor W. Tsang, Xin Yao.\
+*Machine Learning*. Journal track of ECML/PKDD 2024. 10.1007/s10994-024-06575-2. Code will be avaliable soon.
+
 1. [**The brain age of hippocampus-centred regions and associations with APOE genotype**](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=2228)\
 Chao Dong, **Yuangang Pan**, Anbupalam Thalamuthu, Jiyang Jiang, Karen Mather, Perminder Sachdev, Wei Wen\
 *Human Brain Mapping (OHBM) Annual Meeting*. (2024). ([**Level-A medical conference**](https://lib.tsinghua.edu.cn/PDF/subject_ACC.pdf))
@@ -32,10 +36,6 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 1. **Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning**\
 Xingfeng Li, **Yuangang Pan**, Yuan Sun, Quansen Sun, Yinghui Sun, Ivor W. Tsang, and Zhenwen Ren\
 *IEEE Transactions on Multimedia*. (2024).
-
-1. [**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/POUD.pdf)\
-Yinghua Yao, **Yuangang Pan**#, Jing Li, Ivor W. Tsang, Xin Yao.\
-*Machine Learning*. Journal track of ECML/PKDD 2024. 10.1007/s10994-024-06575-2. Code will be avaliable soon.
 
 1. **Fast Unpaired Multi-view Clustering**\
 Xingfeng Li, **Yuangang Pan**, Yinghui Sun, Quansen Sun, Ivor W. Tsang, Zhenwen Ren.\
