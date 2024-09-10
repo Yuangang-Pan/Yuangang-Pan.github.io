@@ -9,7 +9,7 @@ type: publications
 
 1. [**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/PROUD.pdf)\
 Yinghua Yao, **Yuangang Pan**#, Jing Li, Ivor W. Tsang, Xin Yao.\
-*Machine Learning*. Journal track of ECML/PKDD 2024. 10.1007/s10994-024-06575-2. Code will be avaliable soon.
+*Machine Learning*. Journal track of ECML/PKDD 2024. 10.1007/s10994-024-06575-2. [Code avaliable](https://github.com/EvaFlower/Pareto-guided-diffusion-model)
 
 1. [**The brain age of hippocampus-centred regions and associations with APOE genotype**](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=2228)\
 Chao Dong, **Yuangang Pan**, Anbupalam Thalamuthu, Jiyang Jiang, Karen Mather, Perminder Sachdev, Wei Wen\
