@@ -41,7 +41,7 @@ Yinghua Yao, **Yuangang Pan**, Ivor W. Tsang, and Xin Yao.\
 Xingfeng Li, **Yuangang Pan**, Yuan Sun, Quansen Sun, Yinghui Sun, Ivor W. Tsang, and Zhenwen Ren\
 *IEEE Transactions on Multimedia*. (2024).
 
-1. **Fast Unpaired Multi-view Clustering**\
+1. [**Fast Unpaired Multi-view Clustering**](https://www.ijcai.org/proceedings/2024/0496.pdf)\
 Xingfeng Li, **Yuangang Pan**, Yinghui Sun, Quansen Sun, Ivor W. Tsang, Zhenwen Ren.\
 *Proceedings of the 33rd International Joint Conference on Artificial Intelligence*. (2024).
 
