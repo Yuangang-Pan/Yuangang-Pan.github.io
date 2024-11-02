@@ -33,6 +33,10 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
+1. **Generation with Nuanced Changes: Continuous Image-to-Image Translation with Adversarial Preferences**\
+Yinghua Yao, **Yuangang Pan**#, Ivor W. Tsang, and Xin Yao.\
+*IEEE Transactions on Artificial Intelligence*. (2024). 
+
 1. **Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning**\
 Xingfeng Li, **Yuangang Pan**, Yuan Sun, Quansen Sun, Yinghui Sun, Ivor W. Tsang, and Zhenwen Ren\
 *IEEE Transactions on Multimedia*. (2024).
