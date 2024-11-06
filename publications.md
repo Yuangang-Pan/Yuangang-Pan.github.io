@@ -39,7 +39,7 @@ Yinghua Yao, **Yuangang Pan**, Ivor W. Tsang, and Xin Yao.\
 
 1. **Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning**\
 Xingfeng Li, **Yuangang Pan**, Yuan Sun, Quansen Sun, Yinghui Sun, Ivor W. Tsang, and Zhenwen Ren\
-*IEEE Transactions on Multimedia*. (2024).
+*IEEE Transactions on Multimedia*. (2024). (IF:8.4, Q1)
 
 1. [**Fast Unpaired Multi-view Clustering**](https://www.ijcai.org/proceedings/2024/0496.pdf)\
 Xingfeng Li, **Yuangang Pan**, Yinghui Sun, Quansen Sun, Ivor W. Tsang, Zhenwen Ren.\
