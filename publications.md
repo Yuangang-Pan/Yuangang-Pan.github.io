@@ -33,6 +33,10 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
+1. **Max-Mahalanobis Anchors Guidance for Multi-View Clustering**\
+Pei Zhang, **Yuangang Pan**, Siwei Wang, Shengju Yu, Huiying Xu, En Zhu, Xinwang Liu, and Ivor Tsang \
+*Proceedings of the 39th AAAI Conference on Artificial Intelligence*. (2025).
+
 1. **Scalable Unpaired Multi-view Clustering with Bipartite Graph Matching**\
 Xingfeng Li, **Yuangang Pan**#, Yuan Sun, Yinghui Sun, Quansen Sun, Zhenwen Ren#, and Ivor W. Tsang\
 *Information Fusion*. (2024). (IF:14.7, Q1)
