@@ -33,7 +33,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
-1. [**Max-Mahalanobis Anchors Guidance for Multi-View Clustering**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/MAGIC_AAAI2025.pdf)\\
+1. [**Max-Mahalanobis Anchors Guidance for Multi-View Clustering**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/MAGIC_AAAI2025.pdf)\
 Pei Zhang, **Yuangang Pan**, Siwei Wang, Shengju Yu, Huiying Xu, En Zhu, Xinwang Liu, and Ivor Tsang \
 *Proceedings of the 39th AAAI Conference on Artificial Intelligence*. (2025).
 
