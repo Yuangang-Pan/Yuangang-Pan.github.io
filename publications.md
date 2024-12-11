@@ -37,11 +37,11 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 Pei Zhang, **Yuangang Pan**, Siwei Wang, Shengju Yu, Huiying Xu, En Zhu, Xinwang Liu, and Ivor Tsang \
 *Proceedings of the 39th AAAI Conference on Artificial Intelligence*. (2025).
 
-1. **Scalable Unpaired Multi-view Clustering with Bipartite Graph Matching**\
+1. [**Scalable Unpaired Multi-view Clustering with Bipartite Graph Matching**](https://www.sciencedirect.com/science/article/abs/pii/S1566253524005645)\
 Xingfeng Li, **Yuangang Pan**#, Yuan Sun, Yinghui Sun, Quansen Sun, Zhenwen Ren#, and Ivor W. Tsang\
 *Information Fusion*. (2024). (IF:14.7, Q1)
 
-1. **Generation with Nuanced Changes: Continuous Image-to-Image Translation with Adversarial Preferences**\
+1. [**Generation with Nuanced Changes: Continuous Image-to-Image Translation with Adversarial Preferences**](https://ieeexplore.ieee.org/document/10752923)\
 Yinghua Yao, **Yuangang Pan**, Ivor W. Tsang, and Xin Yao.\
 *IEEE Transactions on Artificial Intelligence*. (2024). 
 
