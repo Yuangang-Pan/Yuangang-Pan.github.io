@@ -136,6 +136,7 @@ Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
 *CN111611785A*, Sep 2020.
 -->
 
+<!--
 ## Grants
 1. AI in RNA 3D-structure prediction. A*STAR GAP funding. Co-PI. S$985,400, 1 Dec 2023 - 30 Nov 2024.
 
@@ -146,6 +147,7 @@ Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
 1. Neural Optimization Kernel and Fast Structured Kernel Approximation for Machine Unlearning. AI3 HTCO Seed Fund 2022. Co-I. S$267,000, 1 Apr 2023 - 31 Mar 2024
 
 1. Efficient Materials Design with Fewer Domain Evaluations. A*STAR Pitchfest 2023. Co-I. S$70,000, 1 July 2023 – 30 Jun 2024
+-->
 
 ## Awards
 - Best Poster Award at AI4Science and Nobel Turing Challenge Conference 2024
