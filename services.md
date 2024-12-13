@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /services/
-title: Professional Services
+title: Academic Services
 type: services
 ---
 ## Conference SPC member:
