@@ -140,7 +140,7 @@ Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
 ## Grants
 1. Towards “smart uphill walk”: AI powered next-gen enzyme engineering for bioactive ingredient biosynthesis. MTC IRG. Collaborator. S$959,790, 1 Apr 2025 - 31 Mar 2028.
 
-1. AI in RNA 3D-structure prediction. A*STAR GAP funding. Co-PI. S$985,400, 1 Dec 2023 - 30 Nov 2024.
+1. Heterogeneous Preference Learning for Value-Aligned Large Language Models in Multicultural Societies: A Resource-Efficient Approach. AISG. Co-PI. S$3,399,378.84,  1 Apr 2025 - 31 Mar 2028.
 
 1. AI in RNA 3D-structure prediction. A*STAR GAP funding. Co-PI. S$985,400, 1 Dec 2023 - 30 Nov 2024.
 
