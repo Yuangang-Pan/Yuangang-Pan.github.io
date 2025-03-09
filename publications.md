@@ -49,7 +49,7 @@ Xingfeng Li, **Yuangang Pan**#, Yuan Sun, Yinghui Sun, Quansen Sun, Zhenwen Ren#
 Yinghua Yao, **Yuangang Pan**, Ivor W. Tsang, and Xin Yao.\
 *IEEE Transactions on Artificial Intelligence*. (2024). 
 
-1. **Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning**\
+1. [**Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning**](https://ieeexplore.ieee.org/document/10812848)\
 Xingfeng Li, **Yuangang Pan**, Yuan Sun, Quansen Sun, Yinghui Sun, Ivor W. Tsang, and Zhenwen Ren\
 *IEEE Transactions on Multimedia*. (2024). (IF:8.4, Q1)
 
