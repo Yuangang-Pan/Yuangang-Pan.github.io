@@ -33,14 +33,14 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
-1. [**Group Feature Selection Using Non-Class Data**]\
+1. **Group Feature Selection Using Non-Class Data**\
 Chunna Li, **Yuangang Pan**, Weijie Chen, Ivor W. Tsang, Yuanhai Shao \
 *Machine Learning*. (2025).
 <!--
 ##
 1. [**Sharpening Deep Graph Clustering via Diverse Bellwethers**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/MAGIC_AAAI2025.pdf)\
 -->
-1. [**Sharpening Deep Graph Clustering via Diverse Bellwethers**]\
+1. **Sharpening Deep Graph Clustering via Diverse Bellwethers**\
 Peiyao Zhao, Xin Li#, **Yuangang Pan**#, Ivor W.Tsang, Mingzhong Wang, Lejian Liao \
 *Knowledge-Based Systems*. (2025).
 
