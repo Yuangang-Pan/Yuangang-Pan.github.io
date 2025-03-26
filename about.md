@@ -13,5 +13,5 @@ title: "About me"
 
 - I received the A*STAR Career Development Award at 2022, got the Best Paper Award at CPAL2024.
 
-- I has authored or co-authored papers in various top conferences and journals, such as IJCAI, AAAI, JMLR, MLJ, ACM TOIS, IEEE TPAMI, IEEE TNNLS, IEEE TKDE, IEEE TIFS, IEEE TMM and Hypertension. My research interests include (Non)parametric Clustering, Generative AI, AI for Science & Healthcare.
+- I has authored or co-authored papers in various top conferences and journals, such as IJCAI, AAAI, ICDE, JMLR, MLJ, ACM TOIS, IEEE TPAMI, IEEE TNNLS, IEEE TKDE, IEEE TIFS, IEEE TMM and Hypertension. My research interests include (Non)parametric Clustering, Generative AI, AI for Science & Healthcare.
 For more information about me, please browse the [README](https://www.linkedin.com/in/yuangang-pan-84bb71123/) file.
