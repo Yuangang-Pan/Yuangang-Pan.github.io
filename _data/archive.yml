@@ -4,6 +4,10 @@
 - type: publications
   title: Publications & Awards
   url: /publications/
+- type: Group
+  title: Research Group
+  url: /group/
 - type: services
   title: Professional Services
   url: /services/
+
