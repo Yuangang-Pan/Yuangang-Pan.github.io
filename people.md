@@ -5,17 +5,25 @@ title: Research Group
 type: people
 ---
 
-I am currently a senior scientist at Centre for Frontier AI Research (CFAR), Agency for Science, Technology and Research (A\*STAR) Singapore.
-
-# People
+I feel fortunate to have worked with these excellent students over the years.
 
 ## PhDs
 - XXX (w/ Mykola Pechenizkiy)
 
 ## Masters
-- XXX
+-  Tamatgar Nilufer from Nanyang Technological University, Singapore
+-  Gao Yineng from from Nanyang Technological University, Singapore
+
+## Undergraduates
+- Guo huixuan from Nanyang Technological University, Singapore
+- Julie Kate Cheong from Nanyang Technological University, Singapore
 
 ## Alumni
-- XXX
+- Zhao Peiyao from Beijing Institute of Technology, China
+- Li Xingfeng from Nanjing University of Science and Technology, China
+- Lin Jiaqi from Sun Yat-sen University, China
+- Zhang Pei from National University of Defense Technology, China
+- Li Liang from National University of Defense Technology, China
+- Fang Yujie from Beijing Institute of Technology, China
 
 
