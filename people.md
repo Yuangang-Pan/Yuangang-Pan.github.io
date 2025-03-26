@@ -8,7 +8,7 @@ type: people
 I feel fortunate to have worked with these excellent students over the years.
 
 ## PhDs
-- **XXX** (w/ Mykola Pechenizkiy)
+- **XXX**
 
 ## Masters
 - **Tamatgar Nilufer** from Nanyang Technological University, Singapore
