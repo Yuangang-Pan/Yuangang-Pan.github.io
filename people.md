@@ -24,7 +24,5 @@ I feel fortunate to have worked with these excellent students over the years.
 - **Lin Jiaqi** from Sun Yat-sen University, China
 - **Zhang Pei** from National University of Defense Technology, China
 - **Li Liang** from National University of Defense Technology, China
-- **Zhao Peiyao** from Beijing Institute of Technology, China
-
 
 
