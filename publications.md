@@ -33,6 +33,10 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
+1. **Boosting with Fewer Tokens: Multi-Query Optimization for LLMs Using Node Text and Neighbor Cues**\
+Yujie Fang, Xin Li, **Yuangang Pan**, Xin Huang, Ivor W. Tsang\
+*Proceedings of IEEE International Conference on Data Engineering (ICDE)*. (2025).
+
 1. **Group Feature Selection Using Non-Class Data**\
 Chunna Li, **Yuangang Pan**, Weijie Chen, Ivor W. Tsang, Yuanhai Shao \
 *Machine Learning*. (2025).
