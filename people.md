@@ -19,12 +19,12 @@ I feel fortunate to have worked with these excellent students over the years.
 - **Julie Kate Cheong** from Nanyang Technological University, Singapore
 
 ## Alumni
-- **Zhao Peiyao** from Beijing Institute of Technology, China
+- **Fang Yujie** from Beijing Institute of Technology, China
 - **Li Xingfeng** from Nanjing University of Science and Technology, China
 - **Lin Jiaqi** from Sun Yat-sen University, China
 - **Zhang Pei** from National University of Defense Technology, China
 - **Li Liang** from National University of Defense Technology, China
-- **Fang Yujie** from Beijing Institute of Technology, China
+- **Zhao Peiyao** from Beijing Institute of Technology, China
 
 
 
