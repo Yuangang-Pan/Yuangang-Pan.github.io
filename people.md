@@ -9,7 +9,7 @@ I feel fortunate to have worked with these excellent students over the years.
 
 ## Current students
 - **Tamatgar Nilufer** (MS 2025 from Nanyang Technological University, Singapore)
-- **Gao Yineng** ((MS 2025 from Nanyang Technological University, Singapore)
+- **Gao Yineng** (MS 2025 from Nanyang Technological University, Singapore)
 - **Julie Kate Cheong** (BS 2025 from Nanyang Technological University, Singapore)
 - **Guo Huixuan** (BS 2024 from Nanyang Technological University, Singapore)
 
