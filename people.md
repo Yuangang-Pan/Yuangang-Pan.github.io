@@ -19,10 +19,10 @@ I feel fortunate to have worked with these excellent students over the years.
 - **Julie Kate Cheong** from Nanyang Technological University, Singapore
 
 ## Alumni
-- **Fang Yujie** from Beijing Institute of Technology, China
-- **Li Xingfeng** from Nanjing University of Science and Technology, China
-- **Lin Jiaqi** from Sun Yat-sen University, China
-- **Zhang Pei** from National University of Defense Technology, China
-- **Li Liang** from National University of Defense Technology, China
+- **Fang Yujie** (Visiting PhD 2023-2024 from Beijing Institute of Technology, China)
+- **Li Xingfeng** (Visiting PhD 2023-2024 from Nanjing University of Science and Technology, China)
+- **Lin Jiaqi** (Visiting PhD 2023-2024 from Sun Yat-sen University, China)
+- **Zhang Pei** (Visiting PhD 2023-2024 from National University of Defense Technology, China)
+- **Li Liang** (Visiting PhD 2023-2024 from National University of Defense Technology, China)
 
 
