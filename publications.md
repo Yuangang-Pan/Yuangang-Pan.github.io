@@ -41,7 +41,7 @@ Yujie Fang, Xin Li, **Yuangang Pan**, Xin Huang, Ivor W. Tsang\
 Chunna Li, **Yuangang Pan**, Weijie Chen, Ivor W. Tsang, Yuanhai Shao \
 *Machine Learning*. (2025).
 
-1. **Sharpening Deep Graph Clustering via Diverse Bellwethers**\
+1. [**Sharpening Deep Graph Clustering via Diverse Bellwethers**](https://www.sciencedirect.com/science/article/abs/pii/S0950705125003697)\
 Peiyao Zhao, Xin Li#, **Yuangang Pan**#, Ivor W.Tsang, Mingzhong Wang, Lejian Liao \
 *Knowledge-Based Systems*. (2025).
 
