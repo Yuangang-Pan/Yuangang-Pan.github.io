@@ -4,7 +4,6 @@ permalink: /services/
 title: Academic Services
 type: services
 ---
-## Academic Service:
 
 ## Conference Program Committee Member/Reviewer:
 - International Conference on Machine Learning (ICML)
