@@ -4,30 +4,18 @@ permalink: /services/
 title: Academic Services
 type: services
 ---
-## Conference SPC member:
+## Academic Service:
 
-- AAAI’22, 23
-- IEEE CAI [**2024**](https://ieeecai.org/2024/)
+## Conference Program Committee Member/Reviewer:
+- International Conference on Machine Learning (ICML)
+- Neural Information Processing Systems (NeurIPS)
+- The International Conference on Learning Representations (ICLR)
+- International Conference on Artificial Intelligence and Statistics (AISTATS)
+- AAAI Conference on Artificial Intelligence (AAAI)
+- International Joint Conference on Artificial Intelligence (IJCAI)
+- Asian Conference on Machine Learning (ACML)
 
-
-## Conference PC member:
-
-- NeurIPS’18, 19, 20 ,21, 22
-
-- ICML’19, 20, 21, 22
-
-- ICLR’20, 21, 22, 23, 24
-
-- AAAI’18, 19, 20, 21
-
-- ACML'21, 22, 23
-
-- AISTATS'19, 20, 21, 22, 23
-  
-## Journal Invited Reviewer:
-
-- IEEE Transactions on Pattern Analysis and Machine Intelligence
-
-- IEEE Transactions on Neural Networks and Learning Systems
-
-- Machine Learning
+## Journal Reviewer:
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- Machine Learning (MLJ)
