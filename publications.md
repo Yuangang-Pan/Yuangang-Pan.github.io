@@ -45,7 +45,7 @@ Chunna Li, **Yuangang Pan**, Weijie Chen, Ivor W. Tsang, Yuanhai Shao \
 Peiyao Zhao, Xin Li#, **Yuangang Pan**#, Ivor W.Tsang, Mingzhong Wang, Lejian Liao \
 *Knowledge-Based Systems*. (2025).
 
-1. [**Max-Mahalanobis Anchors Guidance for Multi-View Clustering**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/MAGIC_AAAI2025.pdf)\
+1. [**Max-Mahalanobis Anchors Guidance for Multi-View Clustering**](https://ojs.aaai.org/index.php/AAAI/article/view/34406)\
 Pei Zhang, **Yuangang Pan**, Siwei Wang, Shengju Yu, Huiying Xu, En Zhu, Xinwang Liu, and Ivor Tsang \
 *Proceedings of the 39th AAAI Conference on Artificial Intelligence*. (2025).
 
