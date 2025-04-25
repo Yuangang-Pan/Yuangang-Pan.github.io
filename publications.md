@@ -37,7 +37,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 Yujie Fang, Xin Li, **Yuangang Pan**, Xin Huang, Ivor W. Tsang\
 *Proceedings of IEEE International Conference on Data Engineering (ICDE)*. (2025).
 
-1. [**Group Feature Selection Using Non-Class Data**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/ML_Pan.pdf)\
+1. [**Group Feature Selection Using Non-Class Data**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/ML_PAN.pdf)\
 Chunna Li, **Yuangang Pan**, Weijie Chen, Ivor W. Tsang, Yuanhai Shao \
 *Machine Learning*. (2025).
 
