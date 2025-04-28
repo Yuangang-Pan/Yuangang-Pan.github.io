@@ -67,11 +67,11 @@ Xingfeng Li, **Yuangang Pan**, Yinghui Sun, Quansen Sun, Ivor W. Tsang, Zhenwen 
 
 1. [**Generative Adversarial Ranking Nets**](https://jmlr.org/papers/v25/23-0461.html)\
 Yinghua Yao, **Yuangang Pan**#, Jing Li, Ivor W. Tsang, Xin Yao.\
-*Journal of Machine Learning Research*. (2024). [Code avaliable](https://github.com/EvaFlower/GARNet) (**Top-1 in Machine Learning**)
+*Journal of Machine Learning Research*. (2024). [Code avaliable](https://github.com/EvaFlower/GARNet) (**Top-1 in Machine Learning**) (ICLR 2025 Journal track)
 
 1. [**BGAE: Auto-encoding Multi-view Bipartite Graph Clustering**](https://ieeexplore.ieee.org/abstract/document/10423800)\
 Liang Li, **Yuangang Pan**, Jie Liu, Yue Liu, Xinwang Liu, Kenli Li, Ivor Tsang, Keqin Li.\
-*IEEE Transactions on Knowledge and Data Engineering*. (2024). 10.1109/TKDE.2024.3363217. (**IF: 8.9, Q1**) 
+*IEEE Transactions on Knowledge and Data Engineering*. (2024). 10.1109/TKDE.2024.3363217. (**IF: 8.9, Q1**) (ICDE 2025 Journal track)
 
 1. [**PC-X: Profound Clustering via Slow Exemplars**](https://openreview.net/forum?id=yhGKPtRoOx)\
 **Yuangang Pan**, Yinghua Yao, Ivor Tsang.\
@@ -107,7 +107,7 @@ Xu Chen, Ya Zhang, Ivor W. Tsang, **Yuangang Pan**, and Jingchao Su.\
 
 1. **Fast and Robust Rank Aggregation against Model Misspecification**\
 **Yuangang Pan**, Ivor W. Tsang, Weijie Chen, Gang Niu, and Masashi Sugiyama.\
-*Journal of Machine Learning Research*. 23: 23:1-23:35 (2022) (**Top-1 in Machine Learning**).
+*Journal of Machine Learning Research*. 23: 23:1-23:35 (2022) (**Top-1 in Machine Learning**).  (NeurIPS 2022 Journal track)
 
 1. **Domain-adversarial Network Alignment**\
 Huiting Hong, Xin Li, **Yuangang Pan**, and Ivor W. Tsang.\
