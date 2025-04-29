@@ -7,6 +7,10 @@ type: publications
 
 ## Publications in  AI + X（# corresponding author)
 
+1. **Generative Co-Design of Antibody Sequences and Structures via Black-Box Guidance in a Shared Latent Space**\
+Yinghua Yao, **Yuangang Pan**, Xixian Chen.\
+*Proceedings of the 34rd International Joint Conference on Artificial Intelligence*. (2025).
+
 1. [**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/PROUD.pdf)\
 Yinghua Yao, **Yuangang Pan**#, Jing Li, Ivor W. Tsang, Xin Yao.\
 *Machine Learning*. Journal track of ECML/PKDD 2024. 10.1007/s10994-024-06575-2. [Code avaliable](https://github.com/EvaFlower/Pareto-guided-diffusion-model)
