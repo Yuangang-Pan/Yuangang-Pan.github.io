@@ -8,6 +8,7 @@ type: people
 I feel fortunate to have worked with these excellent students over the years.
 
 ## Current students
+- **Xu Ziyang** (MS May 2025 from National University Singapore, Singapore)
 - **Tamatgar Nilufer** (MS Feb 2025 from Nanyang Technological University, Singapore)
 - **Gao Yineng** (MS Feb 2025 from Nanyang Technological University, Singapore)
 - **Julie Kate Cheong** (BS Feb 2025 from Nanyang Technological University, Singapore)
