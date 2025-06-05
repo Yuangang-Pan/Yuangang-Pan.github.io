@@ -15,6 +15,7 @@ type: services
 - Asian Conference on Machine Learning (ACML)
 
 ## Journal Reviewer:
+- IEEE Transactions on Information Theory (TIT)
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - Machine Learning (MLJ)
