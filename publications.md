@@ -158,7 +158,7 @@ Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
 
 1. Heterogeneous Preference Learning for Value-Aligned Large Language Models in Multicultural Societies: A Resource-Efficient Approach. AISG. Co-PI. S$3,399,378.84,  1 Apr 2025 - 31 Mar 2028.
 
-1. AI in RNA 3D-structure prediction. A*STAR GAP funding. Co-PI. S$985,400, 1 Dec 2023 - 28 Feb 2025.
+1. GAP2: A*STAR RNA-Foundation Model (A*STAR RNA-FM). A*STAR GAP funding. Co-PI. S$985,400, 1 Dec 2023 - 28 Feb 2025.
 
 1. Handy directional generation of biological synthetics with lazy experts. A*STAR Career Development Fund (CDF). PI. S$148,000, 1 Sep 2022 - 31 Aug 2024.
   
