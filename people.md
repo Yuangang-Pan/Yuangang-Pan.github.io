@@ -13,11 +13,11 @@ I feel fortunate to have worked with these excellent students over the years.
 - **Ananthu Rajendran Pillai** (MS Jun 2025 from Nanyang Technological University, Singapore)
 - **Xu Ziyang** (MS May 2025 from National University Singapore, Singapore)
 - **Tamatgar Nilufer** (MS Feb 2025 from Nanyang Technological University, Singapore)
-- **Gao Yineng** (MS Feb 2025 from Nanyang Technological University, Singapore)
 - **Julie Kate Cheong** (BS Feb 2025 from Nanyang Technological University, Singapore)
 - **Guo Huixuan** (BS Jan 2024 from Nanyang Technological University, Singapore) (**TD**×1)
 
 ## Alumni
+- **Gao Yineng** (MS Feb 2025 - Jun 2025 from Nanyang Technological University, Singapore)
 - **Fang Yujie** (Visiting PhD Oct 2023 - Sep 2024 from Beijing Institute of Technology, China) (**ICDE**×1)
 - **Li Xingfeng** (Visiting PhD Oct 2023 - Oct 2024 from Nanjing University of Science and Technology, China) (**IJCAI**×1, **TMM**×1, **InfFus**×1)
 - **Lin Jiaqi** (Visiting PhD Oct 2023 - Oct 2024 from Sun Yat-sen University, China)  (One paper under review)
