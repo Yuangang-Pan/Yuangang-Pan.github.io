@@ -37,7 +37,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
-1. [**JetBGC: Joint Robust Embedding and Structural Fusion Bipartite Graph Clustering**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/edit/master/publications.md)\
+1. [**JetBGC: Joint Robust Embedding and Structural Fusion Bipartite Graph Clustering**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)\
 Liang Li, **Yuangang Pan**, Junpu Zhang, Pei Zhang, Jie Liu, Xinwang Liu, Kenli Li, Ivor W. Tsang, Keqin Li.\
 *IEEE Transactions on Knowledge and Data Engineering*. (2025).
 
