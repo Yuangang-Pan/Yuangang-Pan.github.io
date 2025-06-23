@@ -37,6 +37,10 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
+1. [**JetBGC: Joint Robust Embedding and Structural Fusion Bipartite Graph Clustering**]([https://ieeexplore.ieee.org/abstract/document/10423800](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/edit/master/publications.md))\
+Liang Li, **Yuangang Pan**, Junpu Zhang, Pei Zhang, Jie Liu, Xinwang Liu, Kenli Li, Ivor W. Tsang, Keqin Li.\
+*IEEE Transactions on Knowledge and Data Engineering*. (2025).
+
 1. [**Boosting with Fewer Tokens: Multi-Query Optimization for LLMs Using Node Text and Neighbor Cues**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/PAN_ICDE2025.pdf)\
 Yujie Fang, Xin Li, **Yuangang Pan**, Xin Huang, Ivor W. Tsang\
 *Proceedings of IEEE International Conference on Data Engineering (ICDE)*. (2025).
