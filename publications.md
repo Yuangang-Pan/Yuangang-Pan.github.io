@@ -37,9 +37,13 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
+1. [**Alpha and Prejudice: Improving α-sized Worst-case Fairness via Intrinsic Reweighting**](https://arxiv.org/abs/2411.03068)\
+Jing Li, Yinghua Yao, **Yuangang Pan**, Xuanqian Wang, Ivor W. Tsang, Xiuju Fu.\
+*IEEE Transactions on Knowledge and Data Engineering*. (2025).
+
 1. [**JetBGC: Joint Robust Embedding and Structural Fusion Bipartite Graph Clustering**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)\
 Liang Li, **Yuangang Pan**, Junpu Zhang, Pei Zhang, Jie Liu, Xinwang Liu, Kenli Li, Ivor W. Tsang, Keqin Li.\
-*IEEE Transactions on Knowledge and Data Engineering*. (2025).
+*IEEE Transactions on Neural Networks and Learning Systems*. (2025).
 
 1. [**Boosting with Fewer Tokens: Multi-Query Optimization for LLMs Using Node Text and Neighbor Cues**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/PAN_ICDE2025.pdf)\
 Yujie Fang, Xin Li, **Yuangang Pan**, Xin Huang, Ivor W. Tsang\
