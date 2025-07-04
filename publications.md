@@ -41,7 +41,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 Jing Li, Yinghua Yao, **Yuangang Pan**, Xuanqian Wang, Ivor W. Tsang, Xiuju Fu.\
 *IEEE Transactions on Neural Networks and Learning Systems*. (2025).  (IF:8.9, Q1)
 
-1. [**JetBGC: Joint Robust Embedding and Structural Fusion Bipartite Graph Clustering**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)\
+1. [**JetBGC: Joint Robust Embedding and Structural Fusion Bipartite Graph Clustering**](https://ieeexplore.ieee.org/abstract/document/11053703)\
 Liang Li, **Yuangang Pan**, Junpu Zhang, Pei Zhang, Jie Liu, Xinwang Liu, Kenli Li, Ivor W. Tsang, Keqin Li.\
 *IEEE Transactions on Knowledge and Data Engineering*. (2025). (IF:10.4, Q1)
 
