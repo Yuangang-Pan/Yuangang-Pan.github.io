@@ -4,14 +4,15 @@ permalink: /services/
 title: Academic Services
 type: services
 ---
+## Senior Program Committee:
+- AAAI Conference on Artificial Intelligence (AAAI)
+- International Joint Conference on Artificial Intelligence (IJCAI)
 
 ## Conference Program Committee Member/Reviewer:
 - International Conference on Machine Learning (ICML)
 - Neural Information Processing Systems (NeurIPS)
 - The International Conference on Learning Representations (ICLR)
 - International Conference on Artificial Intelligence and Statistics (AISTATS)
-- AAAI Conference on Artificial Intelligence (AAAI)
-- International Joint Conference on Artificial Intelligence (IJCAI)
 - Asian Conference on Machine Learning (ACML)
 
 ## Journal Reviewer:
