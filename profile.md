@@ -5,10 +5,12 @@ title: Profile
 type: profile
 ---
 
-I am currently a senior scientist at Centre for Frontier AI Research (CFAR), Agency for Science, Technology and Research (A\*STAR) Singapore.
+I am currently an early-career Principal Investigator (PI) and Senior Research Scientist at Centre for Frontier AI Research (CFAR), Agency for Science, Technology and Research (A\*STAR) Singapore.
 
 ## Working Experience	
 
+**Centre for Frontier AI Research (CFAR), A*STAR Singapore**\
+Early-career Principal Investigator (PI), Jul 2027 – Present
 
 **Centre for Frontier AI Research (CFAR), A*STAR Singapore**\
 Senior Scientist, Apr 2024 – Present
