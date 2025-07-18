@@ -10,7 +10,7 @@ I am currently an early-career Principal Investigator (PI) and Senior Research S
 ## Working Experience	
 
 **Centre for Frontier AI Research (CFAR), A*STAR Singapore**\
-Early-career PI, Jul 2024 – Present
+Early-career PI, Jul 2025 – Present
 
 **Centre for Frontier AI Research (CFAR), A*STAR Singapore**\
 Senior Scientist, Apr 2024 – Present
