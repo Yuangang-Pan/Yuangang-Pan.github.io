@@ -8,7 +8,7 @@ type: people
 I feel fortunate to have worked with these excellent minds over the years
 
 ## Research Scientist
-- **Dr. Lin Jiaqi** (since Aug 2025)
+- **Dr. Lin Jiaqi** (Since Aug 2025)
 
 ## Current students
 - **Ananthu Rajendran Pillai** (MS Jun 2025 from Nanyang Technological University, Singapore)
