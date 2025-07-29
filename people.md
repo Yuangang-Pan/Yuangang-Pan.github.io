@@ -5,11 +5,12 @@ title: Research Group
 type: people
 ---
 
-I feel fortunate to have worked with these excellent students over the years.
+I feel fortunate to have worked with these excellent minds over the years
+
+## Research Scientist
+- **Lin Jiaqi** 
 
 ## Current students
-
-
 - **Ananthu Rajendran Pillai** (MS Jun 2025 from Nanyang Technological University, Singapore)
 - **Xu Ziyang** (MS May 2025 from National University Singapore, Singapore)
 - **Tamatgar Nilufer** (MS Feb 2025 from Nanyang Technological University, Singapore)
