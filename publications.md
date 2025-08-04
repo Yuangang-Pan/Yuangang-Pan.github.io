@@ -37,6 +37,10 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
+1. [**Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering**](https://yuangang-pan.github.io/publications/)\
+Liang Li, **Yuangang Pan**, Yinghua Yao, Junpu Zhang, Moyun Liu, Xinwang Liu, Kenli Li, Ivor W. Tsang, Keqin Li.\
+*IEEE Transactions on Pattern Analysis and Machine Intelligence*. (2025).  (IF:18.6, Q1)
+
 1. [**Alpha and Prejudice: Improving α-sized Worst-case Fairness via Intrinsic Reweighting**](https://arxiv.org/abs/2411.03068)\
 Jing Li, Yinghua Yao, **Yuangang Pan**, Xuanqian Wang, Ivor W. Tsang, Xiuju Fu.\
 *IEEE Transactions on Neural Networks and Learning Systems*. (2025).  (IF:8.9, Q1)
