@@ -23,7 +23,7 @@ I feel fortunate to have worked with these excellent minds over the years
 - **Li Xingfeng** (Visiting PhD Oct 2023 - Oct 2024 from Nanjing University of Science and Technology, China) (**IJCAI**×1, **TMM**×1, **InfFus**×1)
 - **Lin Jiaqi** (Visiting PhD Oct 2023 - Oct 2024 from Sun Yat-sen University, China)  (One paper under review)
 - **Zhang Pei** (Visiting PhD Sep 2023 - Feb 2025 from National University of Defense Technology, China) (**AAAI**×1)
-- **Li Liang** (Visiting PhD Sep 2023 - Mar 2025 from National University of Defense Technology, China) (**TD**×1, **TKDE**×2)
+- **Li Liang** (Visiting PhD Sep 2023 - Mar 2025 from National University of Defense Technology, China) (**TD**×1, **TKDE**×2, **TPAMI**x1)
 
 
 
