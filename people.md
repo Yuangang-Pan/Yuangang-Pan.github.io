@@ -14,9 +14,9 @@ I feel fortunate to have worked with these excellent minds over the years
 - **Ananthu Rajendran Pillai** (MS Jun 2025 from Nanyang Technological University, Singapore)
 - **Xu Ziyang** (MS May 2025 from National University Singapore, Singapore)
 - **Tamatgar Nilufer** (MS Feb 2025 from Nanyang Technological University, Singapore)
-- **Julie Kate Cheong** (BS Feb 2025 from Nanyang Technological University, Singapore)
 
 ## Alumni
+- **Julie Kate Cheong** (BS Feb 2025 - Aug 2025 from Nanyang Technological University, Singapore)
 - **Guo Huixuan** (BS Jan 2024 - Jun 2025 from Nanyang Technological University, Singapore) (**TD**×1)
 - **Gao Yineng** (MS Feb 2025 - Jun 2025 from Nanyang Technological University, Singapore)
 - **Fang Yujie** (Visiting PhD Oct 2023 - Sep 2024 from Beijing Institute of Technology, China) (**ICDE**×1)
