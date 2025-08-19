@@ -11,7 +11,7 @@ I feel fortunate to have worked with these excellent minds over the years
 - **Dr. Lin Jiaqi** (Since Aug 2025)
 
 ## Current students
-- **Enge Lou** (MS Aug 2025 from Nanyang Technological University, Singapore)
+- **Lou Enge** (MS Aug 2025 from Nanyang Technological University, Singapore)
 - **Ananthu Rajendran Pillai** (MS Jun 2025 from Nanyang Technological University, Singapore)
 - **Xu Ziyang** (MS May 2025 from National University Singapore, Singapore)
 - **Tamatgar Nilufer** (MS Feb 2025 from Nanyang Technological University, Singapore)
