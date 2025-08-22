@@ -7,7 +7,7 @@ type: publications
 
 ## Publications in  AI + X（# corresponding author)
 
-1. **Generative Co-Design of Antibody Sequences and Structures via Black-Box Guidance in a Shared Latent Space**\
+1. [**Generative Co-Design of Antibody Sequences and Structures via Black-Box Guidance in a Shared Latent Space**](https://arxiv.org/pdf/2508.11424)\
 Yinghua Yao, **Yuangang Pan**#, Xixian Chen.\
 *Proceedings of the 34rd International Joint Conference on Artificial Intelligence*. (2025).
 
@@ -37,7 +37,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
-1. [**Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering**](https://yuangang-pan.github.io/publications/)\
+1. [**Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering**](https://ieeexplore.ieee.org/abstract/document/11119324)\
 Liang Li, **Yuangang Pan**, Yinghua Yao, Junpu Zhang, Moyun Liu, Xinwang Liu, Kenli Li, Ivor W. Tsang, Keqin Li.\
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*. (2025).  (IF:18.6, Q1)
 
