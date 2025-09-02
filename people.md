@@ -18,7 +18,7 @@ I feel fortunate to have worked with these excellent minds over the years
 
 ## Alumni
 - **Julie Kate Cheong** (BS Feb 2025 - Aug 2025 from Nanyang Technological University, Singapore)
-- **Guo Huixuan** (BS Jan 2024 - Jun 2025 from Nanyang Technological University, Singapore) (**TD**×1)
+- **Guo Huixuan** (BS Jan 2024 - Jun 2025 from Nanyang Technological University, Singapore) (**TD**×1), *now PhD candidate at Massachusetts Institute of Technology (MIT)* 
 - **Gao Yineng** (MS Feb 2025 - Jun 2025 from Nanyang Technological University, Singapore)
 - **Fang Yujie** (Visiting PhD Oct 2023 - Sep 2024 from Beijing Institute of Technology, China) (**ICDE**×1)
 - **Li Xingfeng** (Visiting PhD Oct 2023 - Oct 2024 from Nanjing University of Science and Technology, China) (**IJCAI**×1, **TMM**×1, **InfFus**×1)
