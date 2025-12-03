@@ -4,6 +4,9 @@ permalink: /services/
 title: Academic Services
 type: services
 ---
+## Guest Associate Editor:
+- Frontiers in Neurology
+
 ## Senior Program Committee:
 - AAAI Conference on Artificial Intelligence (AAAI)
 - International Joint Conference on Artificial Intelligence (IJCAI)
