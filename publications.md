@@ -37,6 +37,10 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
+1. [**Auto-clustering with Continuous Distribution Estimation on Centroids**](https://github.com/Yuangang-Pan/ACT-for-nonparametric-clustering)\
+**Yuangang Pan**#, Yinghua Yao, Atsushi Nitanda, Joey Tianyi Zhou, Ivor Tsang.\
+*Machine Learning*. Journal track of ACML 2025. 10.1007/s10994-024-06575-2. [Code avaliable](https://github.com/Yuangang-Pan/ACT-for-nonparametric-clustering/tree/main)
+
 1. [**Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering**](https://ieeexplore.ieee.org/abstract/document/11119324)\
 Liang Li, **Yuangang Pan**, Yinghua Yao, Junpu Zhang, Moyun Liu, Xinwang Liu, Kenli Li, Ivor W. Tsang, Keqin Li.\
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*. (2025).  (IF:18.6, Q1)
