@@ -39,7 +39,7 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 1. [**$L_0$ -Norm Penalty Embedded Feature Selection in Universum Learning**](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/edit/master/publications.md)\
 Chunna Li, **Yuangang Pan**, Weijie Chen, Ivor W. Tsang, Yuanhai Shao \
-*Machine Learning*. (2025).
+*IEEE Transactions on Artificial Intelligence*. (2025).
 
 1. [**Auto-clustering with Continuous Distribution Estimation on Centroids**](https://github.com/Yuangang-Pan/ACT-for-nonparametric-clustering)\
 **Yuangang Pan**#, Yinghua Yao, Atsushi Nitanda, Joey Tianyi Zhou, Ivor Tsang.\
