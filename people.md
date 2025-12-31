@@ -11,13 +11,14 @@ I feel fortunate to have worked with these excellent minds over the years
 - **Dr. Lin Jiaqi** (Since Aug 2025)
 
 ## Current students
-- **Li Boyi** (MS Sep 2025 from Zhejiang University of Technology, China)
-- **Yang Yawen** (MS Sep 2025 from Zhejiang University of Technology, China)
+
 - **Ananthu Rajendran Pillai** (MS Jun 2025 from Nanyang Technological University, Singapore)
 - **Xu Ziyang** (MS May 2025 from National University Singapore, Singapore)
 - **Tamatgar Nilufer** (MS Feb 2025 from Nanyang Technological University, Singapore)
 
 ## Alumni
+- **Li Boyi** (MS Sep 2025 - Dec 2025 from Zhejiang University of Technology, China)
+- **Yang Yawen** (MS Sep 2025 - Dec 2025 from Zhejiang University of Technology, China)
 - **Julie Kate Cheong** (BS Feb 2025 - Aug 2025 from Nanyang Technological University, Singapore)
 - **Guo Huixuan** (BS Jan 2024 - Jun 2025 from Nanyang Technological University, Singapore) (**TD**×1), **now PhD candidate at MIT**
 - **Gao Yineng** (MS Feb 2025 - Jun 2025 from Nanyang Technological University, Singapore)
