@@ -19,7 +19,7 @@ I feel fortunate to have worked with these excellent minds over the years
 
 ## Alumni
 
--**Soobin Park** (Undergrad Sep 2025 - Dec 2025 from Yonsei University, Korea) **Co-supervised with Dr. Yao Yinghua**
+- **Soobin Park** (Undergrad Sep 2025 - Dec 2025 from Yonsei University, Korea) **Co-supervised with Dr. Yao Yinghua**
 - **Li Boyi** (MS Sep 2025 - Dec 2025 from Zhejiang University of Technology, China)
 - **Yang Yawen** (MS Sep 2025 - Dec 2025 from Zhejiang University of Technology, China)
 - **Julie Kate Cheong** (BS Feb 2025 - Aug 2025 from Nanyang Technological University, Singapore)
