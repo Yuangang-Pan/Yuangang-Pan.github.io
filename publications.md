@@ -37,6 +37,18 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
+1. [**TS$^2$: Training with Sparsemax+, Testing with Softmax for Accurate and Diverse LLM Fine-Tuning**](https://yuangang-pan.github.io/publications/)\
+Xu Ziyang, Ananthu Rajendran Pillai, Yinghua Yao, **Yuangang Pan**. \
+**Proceedings of The 14th International Conference on Learning Representations (ICLR)*. (2026).
+
+1. [**Sample Reward Soups: Query-efficient Multi-Reward Guidance for Text-to-Image Diffusion Models**](https://yuangang-pan.github.io/publications/)\
+Yinghua Yao, **Yuangang Pan**#, Guoji Fu, Ivor Tsang
+**Proceedings of The 14th International Conference on Learning Representations (ICLR)*. (2026).
+
+1. [**Semantic Homogeneity As Demonstration: Batch-Structured Semi-Supervised In-Context Learning for Natural Language Understanding**](https://yuangang-pan.github.io/publications/)\
+Cheng Chen, **Yuangang Pan**, Ivor Tsang. \
+*Proceedings of The Third Conference on Parsimony and Learning*. (2026).
+
 1. [**$L0$ -Norm Penalty Embedded Feature Selection in Universum Learning**](https://yuangang-pan.github.io/publications/)\
 Chunna Li, Junshan Yin, Yuanhai Shao, **Yuangang Pan**, Weijie Chen, Yiwei Song, Ivor W. Tsang. \
 *IEEE Transactions on Artificial Intelligence*. (2025).
