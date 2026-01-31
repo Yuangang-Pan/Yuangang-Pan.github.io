@@ -13,8 +13,8 @@ I feel fortunate to have worked with these excellent minds over the years
 ## Current students
 - **Harshiv Chandra** (MS Jan 2026 from National University Singapore, Singapore)
 - **Bai Yucheng** (MS Dec 2025 from Nanyang Technological University, Singapore)
-- **Ananthu Rajendran Pillai** (MS Jun 2025 from Nanyang Technological University, Singapore)
-- **Xu Ziyang** (MS May 2025 from National University Singapore, Singapore)
+- **Ananthu Rajendran Pillai** (MS Jun 2025 from Nanyang Technological University, Singapore) (**ICLR**×1)
+- **Xu Ziyang** (MS May 2025 from National University Singapore, Singapore)  (**ICLR**×1)
 - **Tamatgar Nilufer** (MS Feb 2025 from Nanyang Technological University, Singapore)
 
 ## Alumni
