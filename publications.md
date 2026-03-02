@@ -37,11 +37,11 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
-1. [**TS$^2$: Training with Sparsemax+, Testing with Softmax for Accurate and Diverse LLM Fine-Tuning**](https://yuangang-pan.github.io/publications/)\
+1. [**TS$^2$: Training with Sparsemax+, Testing with Softmax for Accurate and Diverse LLM Fine-Tuning**](https://openreview.net/forum?id=CylRqa82Rk)\
 Xu Ziyang, Ananthu Rajendran Pillai, Yinghua Yao, **Yuangang Pan**. \
 **Proceedings of The 14th International Conference on Learning Representations (ICLR)**. (2026).
 
-1. [**Sample Reward Soups: Query-efficient Multi-Reward Guidance for Text-to-Image Diffusion Models**](https://yuangang-pan.github.io/publications/)\
+1. [**Sample Reward Soups: Query-efficient Multi-Reward Guidance for Text-to-Image Diffusion Models**](https://openreview.net/forum?id=MNVxrgRcJV)\
 Yinghua Yao, **Yuangang Pan**#, Guoji Fu, Ivor Tsang. \
 **Proceedings of The 14th International Conference on Learning Representations (ICLR)**. (2026).
 
