@@ -7,6 +7,10 @@ type: publications
 
 ## Publications in  AI + X（# corresponding author)
 
+1. [**From Structure to Function: Preference Alignment for Function-Aware Protein Inverse Folding**](https://openreview.net/forum?id=sTEolR8Nn7)\
+Tamatgar Nilufer, Soobin Park, Yinghua Yao, Xixian Chen, **Yuangang Pan**. \
+**ICLR 2026 Workshop on Generative and Experimental Perspectives for Biomolecular Design**. (Oral Presentation).
+
 1. [**Generative Co-Design of Antibody Sequences and Structures via Black-Box Guidance in a Shared Latent Space**](https://arxiv.org/pdf/2508.11424)\
 Yinghua Yao, **Yuangang Pan**#, Xixian Chen.\
 *Proceedings of the 34rd International Joint Conference on Artificial Intelligence*. (2025).
