@@ -9,7 +9,7 @@ type: publications
 
 1. [**From Structure to Function: Preference Alignment for Function-Aware Protein Inverse Folding**](https://openreview.net/forum?id=sTEolR8Nn7)\
 Tamatgar Nilufer, Soobin Park, Yinghua Yao, Xixian Chen, **Yuangang Pan**. \
-**ICLR 2026 Workshop on Generative and Experimental Perspectives for Biomolecular Design**.
+*ICLR 2026 Workshop on Generative and Experimental Perspectives for Biomolecular Design*.
 
 1. [**Generative Co-Design of Antibody Sequences and Structures via Black-Box Guidance in a Shared Latent Space**](https://arxiv.org/pdf/2508.11424)\
 Yinghua Yao, **Yuangang Pan**#, Xixian Chen.\
@@ -43,11 +43,11 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 1. [**TS$^2$: Training with Sparsemax+, Testing with Softmax for Accurate and Diverse LLM Fine-Tuning**](https://openreview.net/forum?id=CylRqa82Rk)\
 Xu Ziyang, Ananthu Rajendran Pillai, Yinghua Yao, **Yuangang Pan**. \
-**Proceedings of The 14th International Conference on Learning Representations (ICLR)**. (2026).
+*Proceedings of The 14th International Conference on Learning Representations (ICLR)*. (2026).
 
 1. [**Sample Reward Soups: Query-efficient Multi-Reward Guidance for Text-to-Image Diffusion Models**](https://openreview.net/forum?id=MNVxrgRcJV)\
 Yinghua Yao, **Yuangang Pan**#, Guoji Fu, Ivor Tsang. \
-**Proceedings of The 14th International Conference on Learning Representations (ICLR)**. (2026).
+*Proceedings of The 14th International Conference on Learning Representations (ICLR)*. (2026).
 
 1. [**Semantic Homogeneity As Demonstration: Batch-Structured Semi-Supervised In-Context Learning for Natural Language Understanding**](https://yuangang-pan.github.io/publications/)\
 Cheng Chen, **Yuangang Pan**, Ivor Tsang. \
