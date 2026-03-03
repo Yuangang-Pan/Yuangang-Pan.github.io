@@ -51,7 +51,7 @@ Yinghua Yao, **Yuangang Pan**#, Guoji Fu, Ivor Tsang. \
 
 1. [**Semantic Homogeneity As Demonstration: Batch-Structured Semi-Supervised In-Context Learning for Natural Language Understanding**](https://yuangang-pan.github.io/publications/)\
 Cheng Chen, **Yuangang Pan**, Ivor Tsang. \
-**Proceedings of The Third Conference on Parsimony and Learning**. (2026).
+*Proceedings of The Third Conference on Parsimony and Learning*. (2026).
 
 1. [**$L0$ -Norm Penalty Embedded Feature Selection in Universum Learning**](https://yuangang-pan.github.io/publications/)\
 Chunna Li, Junshan Yin, Yuanhai Shao, **Yuangang Pan**, Weijie Chen, Yiwei Song, Ivor W. Tsang. \
