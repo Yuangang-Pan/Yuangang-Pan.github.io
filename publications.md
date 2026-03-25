@@ -9,7 +9,7 @@ type: publications
 
 1. [**From Structure to Function: Preference Alignment for Function-Aware Protein Inverse Folding**](https://openreview.net/forum?id=sTEolR8Nn7)\
 Tamatgar Nilufer, Soobin Park, Yinghua Yao, Xixian Chen, **Yuangang Pan**. \
-*ICLR 2026 Workshop on Generative and Experimental Perspectives for Biomolecular Design*. [pdf]([https://github.com/EvaFlower/Pareto-guided-diffusion-model](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/GEM_ICLR2026_Workshop.pdf))
+*ICLR 2026 Workshop on Generative and Experimental Perspectives for Biomolecular Design*. [pdf](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/GEM_ICLR2026_Workshop.pdf)
 
 1. [**Generative Co-Design of Antibody Sequences and Structures via Black-Box Guidance in a Shared Latent Space**](https://arxiv.org/pdf/2508.11424)\
 Yinghua Yao, **Yuangang Pan**#, Xixian Chen.\
