@@ -11,15 +11,15 @@ I feel fortunate to have worked with these excellent minds over the years
 - **Dr. Lin Jiaqi** (Since Aug 2025)
 
 ## Current students
-
+- **Andrea Zerio** (PhD Mar 2026 from Aalborg University Copenhagen, Denmark)
 - **Kunz Jonathan** (MS Feb 2026 from Heidelberg University, German)
 - **Harshiv Chandra** (MS Jan 2026 from National University Singapore, Singapore)
 - **Bai Yucheng** (MS Dec 2025 from Nanyang Technological University, Singapore)
-- **Lou Enge** (MS Aug 2025 from Nanyang Technological University, Singapore)
 - **Xu Ziyang** (MS May 2025 from National University Singapore, Singapore)  (**ICLR**×1)
 - **Tamatgar Nilufer** (MS Feb 2025 from Nanyang Technological University, Singapore) (**GEM@ICLR**×1)
 
 ## Alumni
+- **Lou Enge** (MS Aug 2025 - Mar 2026 from Nanyang Technological University, Singapore)
 - **Ananthu Rajendran Pillai** (MS Jun 2025 - Feb 2026 from Nanyang Technological University, Singapore) (**ICLR**×1) **Co-supervised with Dr. Yao Yinghua**
 - **Soobin Park** (Undergrad Sep 2025 - Dec 2025 from Yonsei University, Korea) (**GEM@ICLR**×1) **Co-supervised with Dr. Yao Yinghua**
 - **Li Boyi** (MS Sep 2025 - Dec 2025 from Zhejiang University of Technology, China)
