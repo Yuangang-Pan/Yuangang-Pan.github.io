@@ -41,6 +41,10 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
+1. [**Learning Well-Structured Logits: Leveraging Vision–Language Complementarity for Open-World Test-Time Adaptation**](https://yuangang-pan.github.io/publications/)\
+Jia-Qi Lin, Yinghua Yao, Chang-Dong Wang, **Yuangang Pan**. \
+*Proceedings of the 35rd International Joint Conference on Artificial Intelligence (IJCAI)*. (2026).
+
 1. [**TS$^2$: Training with Sparsemax+, Testing with Softmax for Accurate and Diverse LLM Fine-Tuning**](https://openreview.net/forum?id=CylRqa82Rk)\
 Xu Ziyang, Ananthu Rajendran Pillai, Yinghua Yao, **Yuangang Pan**. \
 *Proceedings of The 14th International Conference on Learning Representations (ICLR)*. (2026).
