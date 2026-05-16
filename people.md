@@ -8,7 +8,7 @@ type: people
 I feel fortunate to have worked with these excellent minds over the years
 
 ## Research Scientist
-- **Dr. Lin Jiaqi** (Since Aug 2025)
+- **Dr. Lin Jiaqi** (Since Aug 2025) (**IJCAI**×1)
 
 ## Current students
 - **Andrea Zerio** (PhD Mar 2026 from Aalborg University Copenhagen, Denmark)
