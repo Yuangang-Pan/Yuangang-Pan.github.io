@@ -5,7 +5,7 @@ title: Publications & Awards
 type: publications
 ---
 
-## Publications in  AI + X（# corresponding author)
+## Publications in  AI + X（① equal contributions, # corresponding author)
 
 1. [**From Structure to Function: Preference Alignment for Function-Aware Protein Inverse Folding**](https://openreview.net/forum?id=Yfl7e1elRZ#discussion)\
 Tamatgar Nilufer, Soobin Park, Yinghua Yao, Xixian Chen, **Yuangang Pan**. \
