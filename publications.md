@@ -8,11 +8,11 @@ type: publications
 ## Publications in  AI + X（① equal contributions, # corresponding author)
 
 1. [**From Structure to Function: Preference Alignment for Function-Aware Protein Inverse Folding**](https://openreview.net/forum?id=Yfl7e1elRZ#discussion)\
-Tamatgar Nilufer, Soobin Park, Yinghua Yao, Xixian Chen, **Yuangang Pan**. \
+Tamatgar Nilufer①, Soobin Park①, Yinghua Yao①, Xixian Chen, **Yuangang Pan**. \
 *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*. AI4Sciences Track. (2026). [pdf](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/KDD2026.pdf)
 
 1. [**From Structure to Function: Preference Alignment for Function-Aware Protein Inverse Folding**](https://openreview.net/forum?id=sTEolR8Nn7)\
-Tamatgar Nilufer, Soobin Park, Yinghua Yao, Xixian Chen, **Yuangang Pan**. \
+Tamatgar Nilufer①, Soobin Park①, Yinghua Yao①, Xixian Chen, **Yuangang Pan**. \
 *ICLR 2026 Workshop on Generative and Experimental Perspectives for Biomolecular Design*. [pdf](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/GEM_ICLR2026_Workshop.pdf)
 
 1. [**Generative Co-Design of Antibody Sequences and Structures via Black-Box Guidance in a Shared Latent Space**](https://arxiv.org/pdf/2508.11424)\
@@ -50,7 +50,7 @@ Jia-Qi Lin, Yinghua Yao, Chang-Dong Wang, **Yuangang Pan**. \
 *Proceedings of the 35rd International Joint Conference on Artificial Intelligence (IJCAI)*. (2026).
 
 1. [**TS$^2$: Training with Sparsemax+, Testing with Softmax for Accurate and Diverse LLM Fine-Tuning**](https://openreview.net/forum?id=CylRqa82Rk)\
-Xu Ziyang, Ananthu Rajendran Pillai, Yinghua Yao, **Yuangang Pan**. \
+Xu Ziyang①, Ananthu Rajendran Pillai①, Yinghua Yao, **Yuangang Pan**. \
 *Proceedings of The 14th International Conference on Learning Representations (ICLR)*. (2026).
 
 1. [**Sample Reward Soups: Query-efficient Multi-Reward Guidance for Text-to-Image Diffusion Models**](https://openreview.net/forum?id=MNVxrgRcJV)\
@@ -186,7 +186,7 @@ Proceedings of *International Conference on Neural Information Processing*, 40-4
 *Machine Learning*, 107, 1333–1361 (2018). Journal track of ECML/PKDD 2018. (**IF:5.414, Q2**) 
 
 1. **Robust Plackett–Luce model for k-ary crowdsourced preferences**\
-Bo Ha<sup>1</sup>, **Yuangang Pan**<sup>1</sup>, and Ivor W. Tsang.\
+Bo Ha①, **Yuangang Pan**①, and Ivor W. Tsang.\
 *Machine Learning*, 107 675-702 (2018). (Equal). Journal track of ACML 2017. (**IF:5.414, Q2**)
 
 <!--
