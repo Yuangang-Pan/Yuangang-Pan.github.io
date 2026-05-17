@@ -7,6 +7,10 @@ type: publications
 
 ## Publications in  AI + X（# corresponding author)
 
+1. [**From Structure to Function: Preference Alignment for Function-Aware Protein Inverse Folding**](https://openreview.net/forum?id=Yfl7e1elRZ#discussion)\
+Tamatgar Nilufer, Soobin Park, Yinghua Yao, Xixian Chen, **Yuangang Pan**. \
+*KDD 2026 AI4Sciences Track*. [pdf](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/KDD2026.pdf)
+
 1. [**From Structure to Function: Preference Alignment for Function-Aware Protein Inverse Folding**](https://openreview.net/forum?id=sTEolR8Nn7)\
 Tamatgar Nilufer, Soobin Park, Yinghua Yao, Xixian Chen, **Yuangang Pan**. \
 *ICLR 2026 Workshop on Generative and Experimental Perspectives for Biomolecular Design*. [pdf](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/GEM_ICLR2026_Workshop.pdf)
