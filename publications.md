@@ -9,7 +9,7 @@ type: publications
 
 1. [**From Structure to Function: Preference Alignment for Function-Aware Protein Inverse Folding**](https://openreview.net/forum?id=Yfl7e1elRZ#discussion)\
 Tamatgar Nilufer, Soobin Park, Yinghua Yao, Xixian Chen, **Yuangang Pan**. \
-*KDD 2026 AI4Sciences Track*. [pdf](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/KDD2026.pdf)
+*Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*. AI4Sciences Track. (2026). [pdf](https://github.com/Yuangang-Pan/Yuangang-Pan.github.io/blob/master/Publications/KDD2026.pdf)
 
 1. [**From Structure to Function: Preference Alignment for Function-Aware Protein Inverse Folding**](https://openreview.net/forum?id=sTEolR8Nn7)\
 Tamatgar Nilufer, Soobin Park, Yinghua Yao, Xixian Chen, **Yuangang Pan**. \
