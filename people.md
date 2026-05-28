@@ -14,7 +14,6 @@ I feel fortunate to have worked with these excellent minds over the years
 - **Andrea Zerio** (PhD Mar 2026 from Aalborg University Copenhagen, Denmark)
 - **Kunz Jonathan** (MS Feb 2026 from Heidelberg University, German)
 - **Harshiv Chandra** (MS Jan 2026 from National University Singapore, Singapore)
-- **Tamatgar Nilufer** (MS Feb 2025 from Nanyang Technological University, Singapore) (**GEM@ICLR**×1, **KDD**×1) **Co-supervised with Dr. Yao Yinghua**
 
 ## Alumni
 
@@ -32,6 +31,7 @@ I feel fortunate to have worked with these excellent minds over the years
 - **Ananthu Rajendran Pillai** (MS Jun 2025 - Feb 2026 from Nanyang Technological University, Singapore) (**ICLR**×1) **Co-supervised with Dr. Yao Yinghua**
 - **Li Boyi** (MS Sep 2025 - Dec 2025 from Zhejiang University of Technology, China)
 - **Yang Yawen** (MS Sep 2025 - Dec 2025 from Zhejiang University of Technology, China)
+- **Tamatgar Nilufer** (MS Feb 2025 - Sep 2025 from Nanyang Technological University, Singapore) (**GEM@ICLR**×1, **KDD**×1) **Co-supervised with Dr. Yao Yinghua**
 - **Gao Yineng** (MS Feb 2025 - Jun 2025 from Nanyang Technological University, Singapore)
 
 ### Bachelor Students
