@@ -35,6 +35,8 @@ I feel fortunate to have worked with these excellent minds over the years
 - **Gao Yineng** (MS Feb 2025 - Jun 2025 from Nanyang Technological University, Singapore)
 
 ### Bachelor Students
+<!--
 - **Soobin Park** (BS Sep 2025 - Dec 2025 from Yonsei University, Korea) (**GEM@ICLR**×1,  **KDD**×1) **Co-supervised with Dr. Yao Yinghua**
+-->
 - **Julie Kate Cheong** (BS Feb 2025 - Aug 2025 from Nanyang Technological University, Singapore)
 - **Guo Huixuan** (BS Jan 2024 - Jun 2025 from Nanyang Technological University, Singapore) (**TD**×1), **now PhD candidate at MIT**
