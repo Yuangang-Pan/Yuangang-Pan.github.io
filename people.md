@@ -26,6 +26,8 @@ I feel fortunate to have worked with these excellent minds over the years
 - **Li Liang** (Visiting PhD Sep 2023 - Mar 2025 from National University of Defense Technology, China) (**TD**×1, **TKDE**×2, **TPAMI**x1) **now Alibaba Group**
 
 ### Master Students
+- **Bai Yucheng** (MS Dec 2025 from Nanyang Technological University, Singapore) **Co-supervised with Dr. Yao Yinghua**
+- **Xu Ziyang** (MS May 2025 from National University Singapore, Singapore)  (**ICLR**×1) **Co-supervised with Dr. Yao Yinghua**
 - **Lou Enge** (MS Aug 2025 - Mar 2026 from Nanyang Technological University, Singapore)
 - **Ananthu Rajendran Pillai** (MS Jun 2025 - Feb 2026 from Nanyang Technological University, Singapore) (**ICLR**×1) **Co-supervised with Dr. Yao Yinghua**
 - **Li Boyi** (MS Sep 2025 - Dec 2025 from Zhejiang University of Technology, China)
@@ -33,8 +35,6 @@ I feel fortunate to have worked with these excellent minds over the years
 - **Gao Yineng** (MS Feb 2025 - Jun 2025 from Nanyang Technological University, Singapore)
 
 ### Bachelor Students
-- **Bai Yucheng** (MS Dec 2025 from Nanyang Technological University, Singapore) **Co-supervised with Dr. Yao Yinghua**
-- **Xu Ziyang** (MS May 2025 from National University Singapore, Singapore)  (**ICLR**×1) **Co-supervised with Dr. Yao Yinghua**
 - **Soobin Park** (BS Sep 2025 - Dec 2025 from Yonsei University, Korea) (**GEM@ICLR**×1,  **KDD**×1) **Co-supervised with Dr. Yao Yinghua**
 - **Julie Kate Cheong** (BS Feb 2025 - Aug 2025 from Nanyang Technological University, Singapore)
 - **Guo Huixuan** (BS Jan 2024 - Jun 2025 from Nanyang Technological University, Singapore) (**TD**×1), **now PhD candidate at MIT**
