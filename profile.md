@@ -5,15 +5,18 @@ title: Profile
 type: profile
 ---
 
-I am currently an early-career Principal Investigator (PI) and Senior Research Scientist at Centre for Frontier AI Research (CFAR), Agency for Science, Technology and Research (A\*STAR) Singapore.
+I am currently a Professor at the Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China (UESTC), China.
 
 ## Working Experience	
 
-**Centre for Frontier AI Research (CFAR), A*STAR Singapore**\
-Early-career PI, Jul 2025 – Present
+**University of Electronic Science and Technology of China (UESTC), China**\
+Professor, Sep 2026 – Present
 
 **Centre for Frontier AI Research (CFAR), A*STAR Singapore**\
-Senior Scientist, Apr 2024 – Present
+Early-career PI, Jul 2025 – Aug 2026
+
+**Centre for Frontier AI Research (CFAR), A*STAR Singapore**\
+Senior Scientist, Apr 2024 – Aug 2026
 
 **Centre for Frontier AI Research (CFAR), A*STAR Singapore**\
 Scientist, Jan 2022 – Mar 2024
