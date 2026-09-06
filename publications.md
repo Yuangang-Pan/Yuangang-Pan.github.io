@@ -45,6 +45,10 @@ Jing Du, **Yuangang Pan**, Jiyang Jiang, Yue Liu, Ben C. P. Lam, Aletta Schutte,
 
 ## Publications in Machine Learning（# corresponding author)
 
+1. [**The Reward Model Selection Crisis in Personalized Alignment**](https://arxiv.org/pdf/2512.23067)\
+Fady Rezk, **Yuangang Pan**, Chuan-Sheng Foo, Xun Xu, Nancy Chen, Henry Gouk, Timothy Hospedales.\
+*Finding of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 finding)*. (2026).
+
 1. [**Learning Well-Structured Logits: Leveraging Vision–Language Complementarity for Open-World Test-Time Adaptation**](https://yuangang-pan.github.io/publications/)\
 Jia-Qi Lin, Yinghua Yao, Chang-Dong Wang, **Yuangang Pan**. \
 *Proceedings of the 35rd International Joint Conference on Artificial Intelligence (IJCAI)*. (2026).
