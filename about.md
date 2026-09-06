@@ -3,9 +3,9 @@ layout: page
 title: "About me"
 ---
 
-
-
-- I am currently an early-career Principal Investigator (PI) and Senior Research Scientist at Centre for Frontier AI Research (CFAR), Agency for Science, Technology and Research (A\*STAR) Singapore.
+- I am a Professor at the Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China (UESTC). I am a member of the Data Intelligence Group (Diggers), led by Prof. Lixin Duan.
+  
+- Prior to joining UESTC in Sep 2026, I was a PI and Senior Research Scientist at the Centre for Frontier AI Research (CFAR), Agency for Science, Technology and Research (A\*STAR), Singapore. 
 
 * Before joining A\*STAR, I was a postdoctoral research associate at the Australian Artificial Intelligence Institute (AAII) at University of Technology Sydney (UTS), under the supervision of Prof. Ivor Tsang.
 
